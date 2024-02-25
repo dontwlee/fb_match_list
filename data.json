@@ -1,86 +1,6 @@
 {
     "matches": [
         {
-            "matchTime": "2024-02-25T23:00:00.000+08:00",
-            "frontEndId": "FB1969",
-            "homeTeam": {
-                "teamNameCH": "車路士",
-                "teamNameEN": "Chelsea"
-            },
-            "awayTeam": {
-                "teamNameCH": "利物浦",
-                "teamNameEN": "Liverpool"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "英格蘭聯賽盃",
-                "tournamentNameEN": "Eng League Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-26T00:05:00.000+08:00",
-            "frontEndId": "FB2097",
-            "homeTeam": {
-                "teamNameCH": "巴黎聖日耳門",
-                "teamNameEN": "Paris Saint Germain"
-            },
-            "awayTeam": {
-                "teamNameCH": "雷恩",
-                "teamNameEN": "Rennes"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "法國甲組聯賽",
-                "tournamentNameEN": "French Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-26T00:30:00.000+08:00",
-            "frontEndId": "FB1950",
-            "homeTeam": {
-                "teamNameCH": "多蒙特",
-                "teamNameEN": "Dortmund"
-            },
-            "awayTeam": {
-                "teamNameCH": "賀芬咸",
-                "teamNameEN": "Hoffenheim"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "德國甲組聯賽",
-                "tournamentNameEN": "German Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-26T01:00:00.000+08:00",
-            "frontEndId": "FB1963",
-            "homeTeam": {
-                "teamNameCH": "萊切",
-                "teamNameEN": "Lecce"
-            },
-            "awayTeam": {
-                "teamNameCH": "國際米蘭",
-                "teamNameEN": "Inter Milan"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "意大利甲組聯賽",
-                "tournamentNameEN": "Italian Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
             "matchTime": "2024-02-26T01:30:00.000+08:00",
             "frontEndId": "FB1971",
             "homeTeam": {
@@ -121,86 +41,6 @@
             }
         },
         {
-            "matchTime": "2024-02-26T02:00:00.000+08:00",
-            "frontEndId": "FB2131",
-            "homeTeam": {
-                "teamNameCH": "賓菲加",
-                "teamNameEN": "Benfica"
-            },
-            "awayTeam": {
-                "teamNameCH": "樸迪莫倫斯",
-                "teamNameEN": "Portimonense"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "葡萄牙超級聯賽",
-                "tournamentNameEN": "Portuguese Premier"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-26T02:00:00.000+08:00",
-            "frontEndId": "FB2011",
-            "homeTeam": {
-                "teamNameCH": "基維辛迪",
-                "teamNameEN": "Gil Vicente"
-            },
-            "awayTeam": {
-                "teamNameCH": "波圖",
-                "teamNameEN": "Porto"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "葡萄牙超級聯賽",
-                "tournamentNameEN": "Portuguese Premier"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-26T02:00:00.000+08:00",
-            "frontEndId": "FB2054",
-            "homeTeam": {
-                "teamNameCH": "托盧卡",
-                "teamNameEN": "Toluca"
-            },
-            "awayTeam": {
-                "teamNameCH": "迪祖亞拿",
-                "teamNameEN": "Tijuana"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "墨西哥超級聯賽",
-                "tournamentNameEN": "Mexican Premier"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-26T02:15:00.000+08:00",
-            "frontEndId": "FB2126",
-            "homeTeam": {
-                "teamNameCH": "奧伊本",
-                "teamNameEN": "Eupen"
-            },
-            "awayTeam": {
-                "teamNameCH": "布魯日舒高",
-                "teamNameEN": "Cercle Bruges"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "比利時甲組聯賽",
-                "tournamentNameEN": "Belgian Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
             "matchTime": "2024-02-26T02:30:00.000+08:00",
             "frontEndId": "FB2050",
             "homeTeam": {
@@ -215,26 +55,6 @@
             "tournament": {
                 "tournamentNameCH": "德國甲組聯賽",
                 "tournamentNameEN": "German Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-26T03:00:00.000+08:00",
-            "frontEndId": "FB2005",
-            "homeTeam": {
-                "teamNameCH": "禾寧丹",
-                "teamNameEN": "Volendam"
-            },
-            "awayTeam": {
-                "teamNameCH": "海倫芬",
-                "teamNameEN": "Heerenveen"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "荷蘭甲組聯賽",
-                "tournamentNameEN": "Dutch Division 1"
             },
             "liveEvent": {
                 "hasLiveInfo": true
