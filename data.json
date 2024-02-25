@@ -21,66 +21,6 @@
             }
         },
         {
-            "matchTime": "2024-02-25T23:15:00.000+08:00",
-            "frontEndId": "FB2025",
-            "homeTeam": {
-                "teamNameCH": "貝迪斯",
-                "teamNameEN": "Betis"
-            },
-            "awayTeam": {
-                "teamNameCH": "畢爾包",
-                "teamNameEN": "Bilbao"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "西班牙甲組聯賽",
-                "tournamentNameEN": "Spanish Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-25T23:15:00.000+08:00",
-            "frontEndId": "FB2078",
-            "homeTeam": {
-                "teamNameCH": "艾高干",
-                "teamNameEN": "Alcorcon"
-            },
-            "awayTeam": {
-                "teamNameCH": "特內里費",
-                "teamNameEN": "Tenerife"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "西班牙乙組聯賽",
-                "tournamentNameEN": "Spanish Division 2"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-25T23:45:00.000+08:00",
-            "frontEndId": "FB2127",
-            "homeTeam": {
-                "teamNameCH": "阿爾克馬爾",
-                "teamNameEN": "AZ Alkmaar"
-            },
-            "awayTeam": {
-                "teamNameCH": "阿積士",
-                "teamNameEN": "Ajax"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "荷蘭甲組聯賽",
-                "tournamentNameEN": "Dutch Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
             "matchTime": "2024-02-26T00:05:00.000+08:00",
             "frontEndId": "FB2097",
             "homeTeam": {
