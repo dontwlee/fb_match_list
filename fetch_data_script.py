@@ -7,9 +7,9 @@ def fetch_data_and_save():
     response = requests.get(url)
     
     if response.status_code == 200:
-        # 將JSON數據寫入文件
+        # 將 JSON 數據寫入文件
         data = response.json()
-        file_path = os.path.join(os.path.dirname(__file__), "data.json")  # 存儲路徑為腳本所在目錄
+        file_path = os.path.join(os.getcwd(), "data.json")  # 存儲路徑為當前工作目錄
         with open(file_path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=4)
         print("Data fetched and saved successfully.")
