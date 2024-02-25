@@ -21,46 +21,6 @@
             }
         },
         {
-            "matchTime": "2024-02-25T21:00:00.000+08:00",
-            "frontEndId": "FB1973",
-            "homeTeam": {
-                "teamNameCH": "卡迪斯",
-                "teamNameEN": "Cadiz"
-            },
-            "awayTeam": {
-                "teamNameCH": "切爾達",
-                "teamNameEN": "Celta Vigo"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "西班牙甲組聯賽",
-                "tournamentNameEN": "Spanish Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-25T21:00:00.000+08:00",
-            "frontEndId": "FB2100",
-            "homeTeam": {
-                "teamNameCH": "CD艾丹斯",
-                "teamNameEN": "CD Eldense"
-            },
-            "awayTeam": {
-                "teamNameCH": "費路爾競賽",
-                "teamNameEN": "Racing de Ferrol"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "西班牙乙組聯賽",
-                "tournamentNameEN": "Spanish Division 2"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
             "matchTime": "2024-02-25T21:30:00.000+08:00",
             "frontEndId": "FB1935",
             "homeTeam": {
@@ -161,66 +121,6 @@
             }
         },
         {
-            "matchTime": "2024-02-25T22:57:00.000+08:00",
-            "frontEndId": "FB2145",
-            "homeTeam": {
-                "teamNameCH": "侯治柏度",
-                "teamNameEN": "Huachipato"
-            },
-            "awayTeam": {
-                "teamNameCH": "卡拉雷聯",
-                "teamNameEN": "Union La Calera"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "智利甲組聯賽",
-                "tournamentNameEN": "Chilean Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-25T22:57:00.000+08:00",
-            "frontEndId": "FB2144",
-            "homeTeam": {
-                "teamNameCH": "伊基克",
-                "teamNameEN": "Iquique"
-            },
-            "awayTeam": {
-                "teamNameCH": "維拿迪馬愛華頓",
-                "teamNameEN": "Everton VM"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "智利甲組聯賽",
-                "tournamentNameEN": "Chilean Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-25T23:00:00.000+08:00",
-            "frontEndId": "FB2124",
-            "homeTeam": {
-                "teamNameCH": "真特",
-                "teamNameEN": "AA Gent"
-            },
-            "awayTeam": {
-                "teamNameCH": "安特衛普",
-                "teamNameEN": "Antwerp"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "比利時甲組聯賽",
-                "tournamentNameEN": "Belgian Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
             "matchTime": "2024-02-25T23:15:00.000+08:00",
             "frontEndId": "FB2025",
             "homeTeam": {
@@ -250,26 +150,6 @@
             "awayTeam": {
                 "teamNameCH": "特內里費",
                 "teamNameEN": "Tenerife"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "西班牙乙組聯賽",
-                "tournamentNameEN": "Spanish Division 2"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-25T23:15:00.000+08:00",
-            "frontEndId": "FB2075",
-            "homeTeam": {
-                "teamNameCH": "貝高斯",
-                "teamNameEN": "Burgos"
-            },
-            "awayTeam": {
-                "teamNameCH": "希杭",
-                "teamNameEN": "Gijon"
             },
             "isESOffer": true,
             "tournament": {
