@@ -101,86 +101,6 @@
             }
         },
         {
-            "matchTime": "2024-02-25T20:00:00.000+08:00",
-            "frontEndId": "FB2152",
-            "homeTeam": {
-                "teamNameCH": "咸史達斯",
-                "teamNameEN": "Halmstads"
-            },
-            "awayTeam": {
-                "teamNameCH": "特利堡",
-                "teamNameEN": "Trelleborgs"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "瑞典盃",
-                "tournamentNameEN": "Swedish Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            }
-        },
-        {
-            "matchTime": "2024-02-25T20:00:00.000+08:00",
-            "frontEndId": "FB2155",
-            "homeTeam": {
-                "teamNameCH": "希爾星堡",
-                "teamNameEN": "Helsingborgs"
-            },
-            "awayTeam": {
-                "teamNameCH": "華納莫",
-                "teamNameEN": "Varnamo"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "瑞典盃",
-                "tournamentNameEN": "Swedish Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            }
-        },
-        {
-            "matchTime": "2024-02-25T20:00:00.000+08:00",
-            "frontEndId": "FB2151",
-            "homeTeam": {
-                "teamNameCH": "米贊比",
-                "teamNameEN": "Mjallby"
-            },
-            "awayTeam": {
-                "teamNameCH": "華斯特拉斯",
-                "teamNameEN": "Vasteras SK"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "瑞典盃",
-                "tournamentNameEN": "Swedish Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            }
-        },
-        {
-            "matchTime": "2024-02-25T20:30:00.000+08:00",
-            "frontEndId": "FB2061",
-            "homeTeam": {
-                "teamNameCH": "布魯日",
-                "teamNameEN": "Bruges"
-            },
-            "awayTeam": {
-                "teamNameCH": "安德列治",
-                "teamNameEN": "Anderlecht"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "比利時甲組聯賽",
-                "tournamentNameEN": "Belgian Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
             "matchTime": "2024-02-25T20:30:00.000+08:00",
             "frontEndId": "FB1958",
             "homeTeam": {
@@ -190,46 +110,6 @@
             "awayTeam": {
                 "teamNameCH": "艾華斯堡",
                 "teamNameEN": "Elversberg"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "德國乙組聯賽",
-                "tournamentNameEN": "German Division 2"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-25T20:30:00.000+08:00",
-            "frontEndId": "FB1956",
-            "homeTeam": {
-                "teamNameCH": "杜塞爾多夫",
-                "teamNameEN": "Dusseldorf"
-            },
-            "awayTeam": {
-                "teamNameCH": "羅斯托克",
-                "teamNameEN": "Rostock"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "德國乙組聯賽",
-                "tournamentNameEN": "German Division 2"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-25T20:30:00.000+08:00",
-            "frontEndId": "FB1952",
-            "homeTeam": {
-                "teamNameCH": "格雷特霍夫",
-                "teamNameEN": "Greuther Furth"
-            },
-            "awayTeam": {
-                "teamNameCH": "紐倫堡",
-                "teamNameEN": "Nurnberg"
             },
             "isESOffer": true,
             "tournament": {
