@@ -3,6 +3,7 @@ name: Fetch Data
 on:
   schedule:
     - cron: '0 0,12 * * *'  # 每天的0點和12點運行
+  workflow_dispatch:  # 手動觸發
 
 jobs:
   fetch-data:
