@@ -11,18 +11,20 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
       - name: Set up Python
         uses: actions/setup-python@v3
         with:
           python-version: '3.x'
+
       - name: Install dependencies
-        run: |
-          pip install --upgrade pip
-          pip install requests
-      - name: Run script
+        run: pip install requests
+
+      - name: Run fetch_data_script.py
         run: python fetch_data_script.py
+
       - name: Upload data.json
         uses: actions/upload-artifact@v2
         with:
-          name: data  # 儲存檔案的名稱
-          path: data.json  # 要上傳的檔案路徑
+          name: data
+          path: data.json
