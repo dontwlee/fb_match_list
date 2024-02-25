@@ -21,46 +21,6 @@
             }
         },
         {
-            "matchTime": "2024-02-25T20:00:00.000+08:00",
-            "frontEndId": "FB2094",
-            "homeTeam": {
-                "teamNameCH": "朗斯",
-                "teamNameEN": "Lens"
-            },
-            "awayTeam": {
-                "teamNameCH": "摩納哥",
-                "teamNameEN": "Monaco"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "法國甲組聯賽",
-                "tournamentNameEN": "French Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-25T20:00:00.000+08:00",
-            "frontEndId": "FB1939",
-            "homeTeam": {
-                "teamNameCH": "馬瑟韋爾",
-                "teamNameEN": "Motherwell"
-            },
-            "awayTeam": {
-                "teamNameCH": "些路迪",
-                "teamNameEN": "Celtic"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "蘇格蘭超級聯賽",
-                "tournamentNameEN": "Scottish Premier"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            }
-        },
-        {
             "matchTime": "2024-02-25T20:30:00.000+08:00",
             "frontEndId": "FB1958",
             "homeTeam": {
@@ -198,66 +158,6 @@
             },
             "liveEvent": {
                 "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-25T22:00:00.000+08:00",
-            "frontEndId": "FB1979",
-            "homeTeam": {
-                "teamNameCH": "勒哈弗爾",
-                "teamNameEN": "Le Havre"
-            },
-            "awayTeam": {
-                "teamNameCH": "蘭斯",
-                "teamNameEN": "Reims"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "法國甲組聯賽",
-                "tournamentNameEN": "French Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-25T22:00:00.000+08:00",
-            "frontEndId": "FB1980",
-            "homeTeam": {
-                "teamNameCH": "尼斯",
-                "teamNameEN": "Nice"
-            },
-            "awayTeam": {
-                "teamNameCH": "克萊蒙特",
-                "teamNameEN": "Clermont"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "法國甲組聯賽",
-                "tournamentNameEN": "French Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-25T22:00:00.000+08:00",
-            "frontEndId": "FB2065",
-            "homeTeam": {
-                "teamNameCH": "山度士",
-                "teamNameEN": "Santos"
-            },
-            "awayTeam": {
-                "teamNameCH": "聖貝拿度",
-                "teamNameEN": "Sao Bernardo"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "巴西聖保羅省聯賽",
-                "tournamentNameEN": "Brazilian Paulista League"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
             }
         },
         {
