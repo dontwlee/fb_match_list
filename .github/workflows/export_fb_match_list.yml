@@ -21,3 +21,8 @@ jobs:
           pip install requests
       - name: Run script
         run: python fetch_data_script.py
+      - name: Upload data.json
+        uses: actions/upload-artifact@v2
+        with:
+          name: data  # 儲存檔案的名稱
+          path: data.json  # 要上傳的檔案路徑
