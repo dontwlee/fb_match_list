@@ -1,0 +1,1604 @@
+{
+    "matches": [
+        {
+            "matchTime": "2024-02-25T23:00:00.000+08:00",
+            "frontEndId": "FB1969",
+            "homeTeam": {
+                "teamNameCH": "車路士",
+                "teamNameEN": "Chelsea"
+            },
+            "awayTeam": {
+                "teamNameCH": "利物浦",
+                "teamNameEN": "Liverpool"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "英格蘭聯賽盃",
+                "tournamentNameEN": "Eng League Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T19:15:00.000+08:00",
+            "frontEndId": "FB2007",
+            "homeTeam": {
+                "teamNameCH": "精英隊",
+                "teamNameEN": "Excelsior"
+            },
+            "awayTeam": {
+                "teamNameCH": "維迪斯",
+                "teamNameEN": "Vitesse"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "荷蘭甲組聯賽",
+                "tournamentNameEN": "Dutch Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T19:30:00.000+08:00",
+            "frontEndId": "FB1964",
+            "homeTeam": {
+                "teamNameCH": "祖雲達斯",
+                "teamNameEN": "Juventus"
+            },
+            "awayTeam": {
+                "teamNameCH": "費辛隆尼",
+                "teamNameEN": "Frosinone"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "意大利甲組聯賽",
+                "tournamentNameEN": "Italian Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T20:00:00.000+08:00",
+            "frontEndId": "FB2094",
+            "homeTeam": {
+                "teamNameCH": "朗斯",
+                "teamNameEN": "Lens"
+            },
+            "awayTeam": {
+                "teamNameCH": "摩納哥",
+                "teamNameEN": "Monaco"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "法國甲組聯賽",
+                "tournamentNameEN": "French Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T20:00:00.000+08:00",
+            "frontEndId": "FB1939",
+            "homeTeam": {
+                "teamNameCH": "馬瑟韋爾",
+                "teamNameEN": "Motherwell"
+            },
+            "awayTeam": {
+                "teamNameCH": "些路迪",
+                "teamNameEN": "Celtic"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "蘇格蘭超級聯賽",
+                "tournamentNameEN": "Scottish Premier"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            }
+        },
+        {
+            "matchTime": "2024-02-25T20:00:00.000+08:00",
+            "frontEndId": "FB2152",
+            "homeTeam": {
+                "teamNameCH": "咸史達斯",
+                "teamNameEN": "Halmstads"
+            },
+            "awayTeam": {
+                "teamNameCH": "特利堡",
+                "teamNameEN": "Trelleborgs"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "瑞典盃",
+                "tournamentNameEN": "Swedish Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            }
+        },
+        {
+            "matchTime": "2024-02-25T20:00:00.000+08:00",
+            "frontEndId": "FB2155",
+            "homeTeam": {
+                "teamNameCH": "希爾星堡",
+                "teamNameEN": "Helsingborgs"
+            },
+            "awayTeam": {
+                "teamNameCH": "華納莫",
+                "teamNameEN": "Varnamo"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "瑞典盃",
+                "tournamentNameEN": "Swedish Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            }
+        },
+        {
+            "matchTime": "2024-02-25T20:00:00.000+08:00",
+            "frontEndId": "FB2151",
+            "homeTeam": {
+                "teamNameCH": "米贊比",
+                "teamNameEN": "Mjallby"
+            },
+            "awayTeam": {
+                "teamNameCH": "華斯特拉斯",
+                "teamNameEN": "Vasteras SK"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "瑞典盃",
+                "tournamentNameEN": "Swedish Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            }
+        },
+        {
+            "matchTime": "2024-02-25T20:30:00.000+08:00",
+            "frontEndId": "FB2061",
+            "homeTeam": {
+                "teamNameCH": "布魯日",
+                "teamNameEN": "Bruges"
+            },
+            "awayTeam": {
+                "teamNameCH": "安德列治",
+                "teamNameEN": "Anderlecht"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "比利時甲組聯賽",
+                "tournamentNameEN": "Belgian Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T20:30:00.000+08:00",
+            "frontEndId": "FB1958",
+            "homeTeam": {
+                "teamNameCH": "漢堡",
+                "teamNameEN": "Hamburg"
+            },
+            "awayTeam": {
+                "teamNameCH": "艾華斯堡",
+                "teamNameEN": "Elversberg"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "德國乙組聯賽",
+                "tournamentNameEN": "German Division 2"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T20:30:00.000+08:00",
+            "frontEndId": "FB1956",
+            "homeTeam": {
+                "teamNameCH": "杜塞爾多夫",
+                "teamNameEN": "Dusseldorf"
+            },
+            "awayTeam": {
+                "teamNameCH": "羅斯托克",
+                "teamNameEN": "Rostock"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "德國乙組聯賽",
+                "tournamentNameEN": "German Division 2"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T20:30:00.000+08:00",
+            "frontEndId": "FB1952",
+            "homeTeam": {
+                "teamNameCH": "格雷特霍夫",
+                "teamNameEN": "Greuther Furth"
+            },
+            "awayTeam": {
+                "teamNameCH": "紐倫堡",
+                "teamNameEN": "Nurnberg"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "德國乙組聯賽",
+                "tournamentNameEN": "German Division 2"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T21:00:00.000+08:00",
+            "frontEndId": "FB1973",
+            "homeTeam": {
+                "teamNameCH": "卡迪斯",
+                "teamNameEN": "Cadiz"
+            },
+            "awayTeam": {
+                "teamNameCH": "切爾達",
+                "teamNameEN": "Celta Vigo"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "西班牙甲組聯賽",
+                "tournamentNameEN": "Spanish Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T21:00:00.000+08:00",
+            "frontEndId": "FB2100",
+            "homeTeam": {
+                "teamNameCH": "CD艾丹斯",
+                "teamNameEN": "CD Eldense"
+            },
+            "awayTeam": {
+                "teamNameCH": "費路爾競賽",
+                "teamNameEN": "Racing de Ferrol"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "西班牙乙組聯賽",
+                "tournamentNameEN": "Spanish Division 2"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T21:30:00.000+08:00",
+            "frontEndId": "FB1935",
+            "homeTeam": {
+                "teamNameCH": "狼隊",
+                "teamNameEN": "Wolves"
+            },
+            "awayTeam": {
+                "teamNameCH": "錫菲聯",
+                "teamNameEN": "Sheff Utd"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "英格蘭超級聯賽",
+                "tournamentNameEN": "Eng Premier"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T21:30:00.000+08:00",
+            "frontEndId": "FB2128",
+            "homeTeam": {
+                "teamNameCH": "阿梅爾城",
+                "teamNameEN": "Almere City"
+            },
+            "awayTeam": {
+                "teamNameCH": "飛燕諾",
+                "teamNameEN": "Feyenoord"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "荷蘭甲組聯賽",
+                "tournamentNameEN": "Dutch Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T21:30:00.000+08:00",
+            "frontEndId": "FB2006",
+            "homeTeam": {
+                "teamNameCH": "川迪",
+                "teamNameEN": "Twente"
+            },
+            "awayTeam": {
+                "teamNameCH": "伊高斯",
+                "teamNameEN": "Go Ahead Eagles"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "荷蘭甲組聯賽",
+                "tournamentNameEN": "Dutch Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T22:00:00.000+08:00",
+            "frontEndId": "FB1985",
+            "homeTeam": {
+                "teamNameCH": "卡利亞里",
+                "teamNameEN": "Cagliari"
+            },
+            "awayTeam": {
+                "teamNameCH": "拿玻里",
+                "teamNameEN": "Napoli"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "意大利甲組聯賽",
+                "tournamentNameEN": "Italian Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T22:00:00.000+08:00",
+            "frontEndId": "FB2095",
+            "homeTeam": {
+                "teamNameCH": "圖盧茲",
+                "teamNameEN": "Toulouse"
+            },
+            "awayTeam": {
+                "teamNameCH": "里爾",
+                "teamNameEN": "Lille"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "法國甲組聯賽",
+                "tournamentNameEN": "French Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T22:00:00.000+08:00",
+            "frontEndId": "FB1979",
+            "homeTeam": {
+                "teamNameCH": "勒哈弗爾",
+                "teamNameEN": "Le Havre"
+            },
+            "awayTeam": {
+                "teamNameCH": "蘭斯",
+                "teamNameEN": "Reims"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "法國甲組聯賽",
+                "tournamentNameEN": "French Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T22:00:00.000+08:00",
+            "frontEndId": "FB1980",
+            "homeTeam": {
+                "teamNameCH": "尼斯",
+                "teamNameEN": "Nice"
+            },
+            "awayTeam": {
+                "teamNameCH": "克萊蒙特",
+                "teamNameEN": "Clermont"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "法國甲組聯賽",
+                "tournamentNameEN": "French Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T22:00:00.000+08:00",
+            "frontEndId": "FB2065",
+            "homeTeam": {
+                "teamNameCH": "山度士",
+                "teamNameEN": "Santos"
+            },
+            "awayTeam": {
+                "teamNameCH": "聖貝拿度",
+                "teamNameEN": "Sao Bernardo"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "巴西聖保羅省聯賽",
+                "tournamentNameEN": "Brazilian Paulista League"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            }
+        },
+        {
+            "matchTime": "2024-02-25T22:30:00.000+08:00",
+            "frontEndId": "FB2049",
+            "homeTeam": {
+                "teamNameCH": "法蘭克福",
+                "teamNameEN": "Frankfurt"
+            },
+            "awayTeam": {
+                "teamNameCH": "禾夫斯堡",
+                "teamNameEN": "Wolfsburg"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "德國甲組聯賽",
+                "tournamentNameEN": "German Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T22:57:00.000+08:00",
+            "frontEndId": "FB2145",
+            "homeTeam": {
+                "teamNameCH": "侯治柏度",
+                "teamNameEN": "Huachipato"
+            },
+            "awayTeam": {
+                "teamNameCH": "卡拉雷聯",
+                "teamNameEN": "Union La Calera"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "智利甲組聯賽",
+                "tournamentNameEN": "Chilean Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T22:57:00.000+08:00",
+            "frontEndId": "FB2144",
+            "homeTeam": {
+                "teamNameCH": "伊基克",
+                "teamNameEN": "Iquique"
+            },
+            "awayTeam": {
+                "teamNameCH": "維拿迪馬愛華頓",
+                "teamNameEN": "Everton VM"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "智利甲組聯賽",
+                "tournamentNameEN": "Chilean Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T23:00:00.000+08:00",
+            "frontEndId": "FB2124",
+            "homeTeam": {
+                "teamNameCH": "真特",
+                "teamNameEN": "AA Gent"
+            },
+            "awayTeam": {
+                "teamNameCH": "安特衛普",
+                "teamNameEN": "Antwerp"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "比利時甲組聯賽",
+                "tournamentNameEN": "Belgian Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T23:15:00.000+08:00",
+            "frontEndId": "FB2025",
+            "homeTeam": {
+                "teamNameCH": "貝迪斯",
+                "teamNameEN": "Betis"
+            },
+            "awayTeam": {
+                "teamNameCH": "畢爾包",
+                "teamNameEN": "Bilbao"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "西班牙甲組聯賽",
+                "tournamentNameEN": "Spanish Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T23:15:00.000+08:00",
+            "frontEndId": "FB2078",
+            "homeTeam": {
+                "teamNameCH": "艾高干",
+                "teamNameEN": "Alcorcon"
+            },
+            "awayTeam": {
+                "teamNameCH": "特內里費",
+                "teamNameEN": "Tenerife"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "西班牙乙組聯賽",
+                "tournamentNameEN": "Spanish Division 2"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T23:15:00.000+08:00",
+            "frontEndId": "FB2075",
+            "homeTeam": {
+                "teamNameCH": "貝高斯",
+                "teamNameEN": "Burgos"
+            },
+            "awayTeam": {
+                "teamNameCH": "希杭",
+                "teamNameEN": "Gijon"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "西班牙乙組聯賽",
+                "tournamentNameEN": "Spanish Division 2"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T23:30:00.000+08:00",
+            "frontEndId": "FB2009",
+            "homeTeam": {
+                "teamNameCH": "維薛拿",
+                "teamNameEN": "Vizela"
+            },
+            "awayTeam": {
+                "teamNameCH": "艾斯杜尼",
+                "teamNameEN": "Estoril"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "葡萄牙超級聯賽",
+                "tournamentNameEN": "Portuguese Premier"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-25T23:45:00.000+08:00",
+            "frontEndId": "FB2127",
+            "homeTeam": {
+                "teamNameCH": "阿爾克馬爾",
+                "teamNameEN": "AZ Alkmaar"
+            },
+            "awayTeam": {
+                "teamNameCH": "阿積士",
+                "teamNameEN": "Ajax"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "荷蘭甲組聯賽",
+                "tournamentNameEN": "Dutch Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T00:05:00.000+08:00",
+            "frontEndId": "FB2097",
+            "homeTeam": {
+                "teamNameCH": "巴黎聖日耳門",
+                "teamNameEN": "Paris Saint Germain"
+            },
+            "awayTeam": {
+                "teamNameCH": "雷恩",
+                "teamNameEN": "Rennes"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "法國甲組聯賽",
+                "tournamentNameEN": "French Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T00:30:00.000+08:00",
+            "frontEndId": "FB1950",
+            "homeTeam": {
+                "teamNameCH": "多蒙特",
+                "teamNameEN": "Dortmund"
+            },
+            "awayTeam": {
+                "teamNameCH": "賀芬咸",
+                "teamNameEN": "Hoffenheim"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "德國甲組聯賽",
+                "tournamentNameEN": "German Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T00:30:00.000+08:00",
+            "frontEndId": "FB2154",
+            "homeTeam": {
+                "teamNameCH": "IK布萊格",
+                "teamNameEN": "IK Brage"
+            },
+            "awayTeam": {
+                "teamNameCH": "天狼星",
+                "teamNameEN": "Sirius"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "瑞典盃",
+                "tournamentNameEN": "Swedish Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            }
+        },
+        {
+            "matchTime": "2024-02-26T00:30:00.000+08:00",
+            "frontEndId": "FB2153",
+            "homeTeam": {
+                "teamNameCH": "諾高平",
+                "teamNameEN": "Norrkoping"
+            },
+            "awayTeam": {
+                "teamNameCH": "烏錫坦斯",
+                "teamNameEN": "Utsiktens"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "瑞典盃",
+                "tournamentNameEN": "Swedish Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            }
+        },
+        {
+            "matchTime": "2024-02-26T01:00:00.000+08:00",
+            "frontEndId": "FB1963",
+            "homeTeam": {
+                "teamNameCH": "萊切",
+                "teamNameEN": "Lecce"
+            },
+            "awayTeam": {
+                "teamNameCH": "國際米蘭",
+                "teamNameEN": "Inter Milan"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "意大利甲組聯賽",
+                "tournamentNameEN": "Italian Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T01:30:00.000+08:00",
+            "frontEndId": "FB1971",
+            "homeTeam": {
+                "teamNameCH": "拉斯彭馬斯",
+                "teamNameEN": "Las Palmas"
+            },
+            "awayTeam": {
+                "teamNameCH": "奧沙辛拿",
+                "teamNameEN": "Osasuna"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "西班牙甲組聯賽",
+                "tournamentNameEN": "Spanish Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T01:30:00.000+08:00",
+            "frontEndId": "FB2125",
+            "homeTeam": {
+                "teamNameCH": "聖基萊斯聯",
+                "teamNameEN": "Union Saint Gilloise"
+            },
+            "awayTeam": {
+                "teamNameCH": "標準列治",
+                "teamNameEN": "Standard"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "比利時甲組聯賽",
+                "tournamentNameEN": "Belgian Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T01:30:00.000+08:00",
+            "frontEndId": "FB2079",
+            "homeTeam": {
+                "teamNameCH": "卡達真拿",
+                "teamNameEN": "Cartagena"
+            },
+            "awayTeam": {
+                "teamNameCH": "艾爾切",
+                "teamNameEN": "CF Elche"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "西班牙乙組聯賽",
+                "tournamentNameEN": "Spanish Division 2"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T02:00:00.000+08:00",
+            "frontEndId": "FB2131",
+            "homeTeam": {
+                "teamNameCH": "賓菲加",
+                "teamNameEN": "Benfica"
+            },
+            "awayTeam": {
+                "teamNameCH": "樸迪莫倫斯",
+                "teamNameEN": "Portimonense"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "葡萄牙超級聯賽",
+                "tournamentNameEN": "Portuguese Premier"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T02:00:00.000+08:00",
+            "frontEndId": "FB2011",
+            "homeTeam": {
+                "teamNameCH": "基維辛迪",
+                "teamNameEN": "Gil Vicente"
+            },
+            "awayTeam": {
+                "teamNameCH": "波圖",
+                "teamNameEN": "Porto"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "葡萄牙超級聯賽",
+                "tournamentNameEN": "Portuguese Premier"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T02:00:00.000+08:00",
+            "frontEndId": "FB2054",
+            "homeTeam": {
+                "teamNameCH": "托盧卡",
+                "teamNameEN": "Toluca"
+            },
+            "awayTeam": {
+                "teamNameCH": "迪祖亞拿",
+                "teamNameEN": "Tijuana"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "墨西哥超級聯賽",
+                "tournamentNameEN": "Mexican Premier"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T02:15:00.000+08:00",
+            "frontEndId": "FB2126",
+            "homeTeam": {
+                "teamNameCH": "奧伊本",
+                "teamNameEN": "Eupen"
+            },
+            "awayTeam": {
+                "teamNameCH": "布魯日舒高",
+                "teamNameEN": "Cercle Bruges"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "比利時甲組聯賽",
+                "tournamentNameEN": "Belgian Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T02:30:00.000+08:00",
+            "frontEndId": "FB2050",
+            "homeTeam": {
+                "teamNameCH": "奧格斯堡",
+                "teamNameEN": "Augsburg"
+            },
+            "awayTeam": {
+                "teamNameCH": "弗賴堡",
+                "teamNameEN": "Freiburg"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "德國甲組聯賽",
+                "tournamentNameEN": "German Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T03:00:00.000+08:00",
+            "frontEndId": "FB2005",
+            "homeTeam": {
+                "teamNameCH": "禾寧丹",
+                "teamNameEN": "Volendam"
+            },
+            "awayTeam": {
+                "teamNameCH": "海倫芬",
+                "teamNameEN": "Heerenveen"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "荷蘭甲組聯賽",
+                "tournamentNameEN": "Dutch Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T03:30:00.000+08:00",
+            "frontEndId": "FB2106",
+            "homeTeam": {
+                "teamNameCH": "FC辛辛那提",
+                "teamNameEN": "FC Cincinnati"
+            },
+            "awayTeam": {
+                "teamNameCH": "FC多倫多",
+                "teamNameEN": "Toronto FC"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "美國職業聯賽",
+                "tournamentNameEN": "US Football League"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T03:45:00.000+08:00",
+            "frontEndId": "FB1962",
+            "homeTeam": {
+                "teamNameCH": "AC米蘭",
+                "teamNameEN": "AC Milan"
+            },
+            "awayTeam": {
+                "teamNameCH": "阿特蘭大",
+                "teamNameEN": "Atalanta"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "意大利甲組聯賽",
+                "tournamentNameEN": "Italian Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T03:45:00.000+08:00",
+            "frontEndId": "FB2096",
+            "homeTeam": {
+                "teamNameCH": "馬賽",
+                "teamNameEN": "Marseille"
+            },
+            "awayTeam": {
+                "teamNameCH": "蒙彼利埃",
+                "teamNameEN": "Montpellier"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "法國甲組聯賽",
+                "tournamentNameEN": "French Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T04:00:00.000+08:00",
+            "frontEndId": "FB1975",
+            "homeTeam": {
+                "teamNameCH": "皇家馬德里",
+                "teamNameEN": "Real Madrid"
+            },
+            "awayTeam": {
+                "teamNameCH": "西維爾",
+                "teamNameEN": "Sevilla"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "西班牙甲組聯賽",
+                "tournamentNameEN": "Spanish Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T04:00:00.000+08:00",
+            "frontEndId": "FB2084",
+            "homeTeam": {
+                "teamNameCH": "河床",
+                "teamNameEN": "River Plate"
+            },
+            "awayTeam": {
+                "teamNameCH": "小保加",
+                "teamNameEN": "Boca Juniors"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "阿根廷甲組聯賽",
+                "tournamentNameEN": "Argentine Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T04:00:00.000+08:00",
+            "frontEndId": "FB2080",
+            "homeTeam": {
+                "teamNameCH": "阿莫列比達",
+                "teamNameEN": "Amorebieta"
+            },
+            "awayTeam": {
+                "teamNameCH": "阿爾巴塞特",
+                "teamNameEN": "Albacete"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "西班牙乙組聯賽",
+                "tournamentNameEN": "Spanish Division 2"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T04:30:00.000+08:00",
+            "frontEndId": "FB2132",
+            "homeTeam": {
+                "teamNameCH": "里奧艾維",
+                "teamNameEN": "Rio Ave"
+            },
+            "awayTeam": {
+                "teamNameCH": "士砵亭",
+                "teamNameEN": "Sporting"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "葡萄牙超級聯賽",
+                "tournamentNameEN": "Portuguese Premier"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T04:57:00.000+08:00",
+            "frontEndId": "FB2146",
+            "homeTeam": {
+                "teamNameCH": "奧希金斯",
+                "teamNameEN": "O'Higgins"
+            },
+            "awayTeam": {
+                "teamNameCH": "高路高路",
+                "teamNameEN": "Colo Colo"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "智利甲組聯賽",
+                "tournamentNameEN": "Chilean Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T05:00:00.000+08:00",
+            "frontEndId": "FB2063",
+            "homeTeam": {
+                "teamNameCH": "保地花高SP",
+                "teamNameEN": "Botafogo SP"
+            },
+            "awayTeam": {
+                "teamNameCH": "波圖基沙",
+                "teamNameEN": "Portuguesa"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "巴西聖保羅省聯賽",
+                "tournamentNameEN": "Brazilian Paulista League"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            }
+        },
+        {
+            "matchTime": "2024-02-26T05:00:00.000+08:00",
+            "frontEndId": "FB2064",
+            "homeTeam": {
+                "teamNameCH": "古蘭尼",
+                "teamNameEN": "Guarani SP"
+            },
+            "awayTeam": {
+                "teamNameCH": "聖保羅",
+                "teamNameEN": "Sao Paulo"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "巴西聖保羅省聯賽",
+                "tournamentNameEN": "Brazilian Paulista League"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            }
+        },
+        {
+            "matchTime": "2024-02-26T06:00:00.000+08:00",
+            "frontEndId": "FB2105",
+            "homeTeam": {
+                "teamNameCH": "拿舒維爾",
+                "teamNameEN": "Nashville SC"
+            },
+            "awayTeam": {
+                "teamNameCH": "紐約紅牛",
+                "teamNameEN": "New York Red Bulls"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "美國職業聯賽",
+                "tournamentNameEN": "US Football League"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T06:30:00.000+08:00",
+            "frontEndId": "FB2121",
+            "homeTeam": {
+                "teamNameCH": "甘拿斯亞",
+                "teamNameEN": "Gimnasia LP"
+            },
+            "awayTeam": {
+                "teamNameCH": "學生隊",
+                "teamNameEN": "Estudiantes"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "阿根廷甲組聯賽",
+                "tournamentNameEN": "Argentine Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T06:45:00.000+08:00",
+            "frontEndId": "FB2087",
+            "homeTeam": {
+                "teamNameCH": "紐維爾舊生",
+                "teamNameEN": "Newell's Old Boys"
+            },
+            "awayTeam": {
+                "teamNameCH": "羅沙里奧中央",
+                "teamNameEN": "Rosario Central"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "阿根廷甲組聯賽",
+                "tournamentNameEN": "Argentine Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T07:00:00.000+08:00",
+            "frontEndId": "FB2062",
+            "homeTeam": {
+                "teamNameCH": "哥連泰斯",
+                "teamNameEN": "Corinthians"
+            },
+            "awayTeam": {
+                "teamNameCH": "邦迪比達",
+                "teamNameEN": "Ponte Preta"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "巴西聖保羅省聯賽",
+                "tournamentNameEN": "Brazilian Paulista League"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            }
+        },
+        {
+            "matchTime": "2024-02-26T07:27:00.000+08:00",
+            "frontEndId": "FB2143",
+            "homeTeam": {
+                "teamNameCH": "科布雷素",
+                "teamNameEN": "Cobresal"
+            },
+            "awayTeam": {
+                "teamNameCH": "艾斯賓路拿",
+                "teamNameEN": "Union Espanola"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "智利甲組聯賽",
+                "tournamentNameEN": "Chilean Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T08:00:00.000+08:00",
+            "frontEndId": "FB2053",
+            "homeTeam": {
+                "teamNameCH": "拿根亞",
+                "teamNameEN": "Santos Laguna"
+            },
+            "awayTeam": {
+                "teamNameCH": "FC馬薩特蘭",
+                "teamNameEN": "Mazatlan FC"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "墨西哥超級聯賽",
+                "tournamentNameEN": "Mexican Premier"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T09:00:00.000+08:00",
+            "frontEndId": "FB2086",
+            "homeTeam": {
+                "teamNameCH": "拉魯斯",
+                "teamNameEN": "Lanus"
+            },
+            "awayTeam": {
+                "teamNameCH": "班菲特",
+                "teamNameEN": "Banfield"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "阿根廷甲組聯賽",
+                "tournamentNameEN": "Argentine Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T09:00:00.000+08:00",
+            "frontEndId": "FB2089",
+            "homeTeam": {
+                "teamNameCH": "科爾多瓦學院",
+                "teamNameEN": "Instituto de Cordoba"
+            },
+            "awayTeam": {
+                "teamNameCH": "葛度爾古斯",
+                "teamNameEN": "Godoy Cruz"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "阿根廷甲組聯賽",
+                "tournamentNameEN": "Argentine Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-26T10:00:00.000+08:00",
+            "frontEndId": "FB2123",
+            "homeTeam": {
+                "teamNameCH": "洛杉磯銀河",
+                "teamNameEN": "LA Galaxy"
+            },
+            "awayTeam": {
+                "teamNameCH": "國際邁亞密",
+                "teamNameEN": "Inter Miami CF"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "美國職業聯賽",
+                "tournamentNameEN": "US Football League"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-27T01:30:00.000+08:00",
+            "frontEndId": "FB2052",
+            "homeTeam": {
+                "teamNameCH": "羅馬",
+                "teamNameEN": "Roma"
+            },
+            "awayTeam": {
+                "teamNameCH": "拖連奴",
+                "teamNameEN": "AC Torino"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "意大利甲組聯賽",
+                "tournamentNameEN": "Italian Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-27T03:00:00.000+08:00",
+            "frontEndId": "FB1944",
+            "homeTeam": {
+                "teamNameCH": "阿爾克馬爾青年隊",
+                "teamNameEN": "Jong AZ Alkmaar"
+            },
+            "awayTeam": {
+                "teamNameCH": "NAC",
+                "teamNameEN": "NAC"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "荷蘭乙組聯賽",
+                "tournamentNameEN": "Dutch Division 2"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            }
+        },
+        {
+            "matchTime": "2024-02-27T03:00:00.000+08:00",
+            "frontEndId": "FB1945",
+            "homeTeam": {
+                "teamNameCH": "阿積士青年隊",
+                "teamNameEN": "Jong Ajax"
+            },
+            "awayTeam": {
+                "teamNameCH": "泰斯達",
+                "teamNameEN": "Telstar"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "荷蘭乙組聯賽",
+                "tournamentNameEN": "Dutch Division 2"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            }
+        },
+        {
+            "matchTime": "2024-02-27T03:00:00.000+08:00",
+            "frontEndId": "FB1943",
+            "homeTeam": {
+                "teamNameCH": "燕豪芬青年隊",
+                "teamNameEN": "Jong PSV Eindhoven"
+            },
+            "awayTeam": {
+                "teamNameCH": "多德勒支",
+                "teamNameEN": "Dordrecht"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "荷蘭乙組聯賽",
+                "tournamentNameEN": "Dutch Division 2"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            }
+        },
+        {
+            "matchTime": "2024-02-27T03:00:00.000+08:00",
+            "frontEndId": "FB1942",
+            "homeTeam": {
+                "teamNameCH": "烏德勒支青年隊",
+                "teamNameEN": "Jong Utrecht"
+            },
+            "awayTeam": {
+                "teamNameCH": "奧斯",
+                "teamNameEN": "Oss"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "荷蘭乙組聯賽",
+                "tournamentNameEN": "Dutch Division 2"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            }
+        },
+        {
+            "matchTime": "2024-02-27T03:30:00.000+08:00",
+            "frontEndId": "FB2076",
+            "homeTeam": {
+                "teamNameCH": "米蘭迪斯",
+                "teamNameEN": "Mirandes"
+            },
+            "awayTeam": {
+                "teamNameCH": "侯爾斯卡",
+                "teamNameEN": "Huesca"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "西班牙乙組聯賽",
+                "tournamentNameEN": "Spanish Division 2"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-27T03:45:00.000+08:00",
+            "frontEndId": "FB2051",
+            "homeTeam": {
+                "teamNameCH": "費倫天拿",
+                "teamNameEN": "Fiorentina"
+            },
+            "awayTeam": {
+                "teamNameCH": "拉素",
+                "teamNameEN": "Lazio"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "意大利甲組聯賽",
+                "tournamentNameEN": "Italian Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-27T03:45:00.000+08:00",
+            "frontEndId": "FB2158",
+            "homeTeam": {
+                "teamNameCH": "高雲地利",
+                "teamNameEN": "Coventry"
+            },
+            "awayTeam": {
+                "teamNameCH": "梅德士東聯",
+                "teamNameEN": "Maidstone Utd"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "英格蘭足總盃",
+                "tournamentNameEN": "FA Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-27T03:45:00.000+08:00",
+            "frontEndId": "FB2099",
+            "homeTeam": {
+                "teamNameCH": "卡昂",
+                "teamNameEN": "Caen"
+            },
+            "awayTeam": {
+                "teamNameCH": "昂熱",
+                "teamNameEN": "Angers SCO"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "法國乙組聯賽",
+                "tournamentNameEN": "French Division 2"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-27T04:00:00.000+08:00",
+            "frontEndId": "FB1928",
+            "homeTeam": {
+                "teamNameCH": "韋斯咸",
+                "teamNameEN": "West Ham"
+            },
+            "awayTeam": {
+                "teamNameCH": "賓福特",
+                "teamNameEN": "Brentford"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "英格蘭超級聯賽",
+                "tournamentNameEN": "Eng Premier"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-27T04:00:00.000+08:00",
+            "frontEndId": "FB1972",
+            "homeTeam": {
+                "teamNameCH": "基羅納",
+                "teamNameEN": "Girona"
+            },
+            "awayTeam": {
+                "teamNameCH": "華歷簡奴",
+                "teamNameEN": "Vallecano"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "西班牙甲組聯賽",
+                "tournamentNameEN": "Spanish Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-27T04:15:00.000+08:00",
+            "frontEndId": "FB2133",
+            "homeTeam": {
+                "teamNameCH": "博維斯塔",
+                "teamNameEN": "Boavista"
+            },
+            "awayTeam": {
+                "teamNameCH": "布拉加",
+                "teamNameEN": "Braga"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "葡萄牙超級聯賽",
+                "tournamentNameEN": "Portuguese Premier"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-27T06:00:00.000+08:00",
+            "frontEndId": "FB2090",
+            "homeTeam": {
+                "teamNameCH": "防衛者",
+                "teamNameEN": "Defensa y Justicia"
+            },
+            "awayTeam": {
+                "teamNameCH": "萊斯查",
+                "teamNameEN": "Deportivo Riestra"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "阿根廷甲組聯賽",
+                "tournamentNameEN": "Argentine Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-27T06:30:00.000+08:00",
+            "frontEndId": "FB2092",
+            "homeTeam": {
+                "teamNameCH": "小阿根廷人",
+                "teamNameEN": "Argentinos Juniors"
+            },
+            "awayTeam": {
+                "teamNameCH": "CA普拉坦斯",
+                "teamNameEN": "CA Platense"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "阿根廷甲組聯賽",
+                "tournamentNameEN": "Argentine Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-27T08:30:00.000+08:00",
+            "frontEndId": "FB2091",
+            "homeTeam": {
+                "teamNameCH": "沙士菲",
+                "teamNameEN": "Velez Sarsfield"
+            },
+            "awayTeam": {
+                "teamNameCH": "堤格雷",
+                "teamNameEN": "Tigre"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "阿根廷甲組聯賽",
+                "tournamentNameEN": "Argentine Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        },
+        {
+            "matchTime": "2024-02-27T08:45:00.000+08:00",
+            "frontEndId": "FB2088",
+            "homeTeam": {
+                "teamNameCH": "CA科爾多瓦中央",
+                "teamNameEN": "CA Central Cordoba"
+            },
+            "awayTeam": {
+                "teamNameCH": "圖庫曼體育會",
+                "teamNameEN": "Atletico Tucuman"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "阿根廷甲組聯賽",
+                "tournamentNameEN": "Argentine Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            }
+        }
+    ]
+}
