@@ -1,0 +1,18 @@
+name: Clean Up Artifacts
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天的0點運行
+
+jobs:
+  clean-up:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Delete old Artifacts
+        uses: actions/delete-artifact@v2
+        with:
+          name: data  # 指定要删除的 Artifacts 名称
+          retention-days: 7  # 保留最近7天的 Artifacts
