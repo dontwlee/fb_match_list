@@ -1,26 +1,6 @@
 {
     "matches": [
         {
-            "matchTime": "2024-02-26T02:30:00.000+08:00",
-            "frontEndId": "FB2050",
-            "homeTeam": {
-                "teamNameCH": "奧格斯堡",
-                "teamNameEN": "Augsburg"
-            },
-            "awayTeam": {
-                "teamNameCH": "弗賴堡",
-                "teamNameEN": "Freiburg"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "德國甲組聯賽",
-                "tournamentNameEN": "German Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
             "matchTime": "2024-02-26T03:30:00.000+08:00",
             "frontEndId": "FB2106",
             "homeTeam": {
@@ -118,106 +98,6 @@
             },
             "liveEvent": {
                 "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-26T04:00:00.000+08:00",
-            "frontEndId": "FB2080",
-            "homeTeam": {
-                "teamNameCH": "阿莫列比達",
-                "teamNameEN": "Amorebieta"
-            },
-            "awayTeam": {
-                "teamNameCH": "阿爾巴塞特",
-                "teamNameEN": "Albacete"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "西班牙乙組聯賽",
-                "tournamentNameEN": "Spanish Division 2"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-26T04:30:00.000+08:00",
-            "frontEndId": "FB2132",
-            "homeTeam": {
-                "teamNameCH": "里奧艾維",
-                "teamNameEN": "Rio Ave"
-            },
-            "awayTeam": {
-                "teamNameCH": "士砵亭",
-                "teamNameEN": "Sporting"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "葡萄牙超級聯賽",
-                "tournamentNameEN": "Portuguese Premier"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-26T04:57:00.000+08:00",
-            "frontEndId": "FB2146",
-            "homeTeam": {
-                "teamNameCH": "奧希金斯",
-                "teamNameEN": "O'Higgins"
-            },
-            "awayTeam": {
-                "teamNameCH": "高路高路",
-                "teamNameEN": "Colo Colo"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "智利甲組聯賽",
-                "tournamentNameEN": "Chilean Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-26T05:00:00.000+08:00",
-            "frontEndId": "FB2063",
-            "homeTeam": {
-                "teamNameCH": "保地花高SP",
-                "teamNameEN": "Botafogo SP"
-            },
-            "awayTeam": {
-                "teamNameCH": "波圖基沙",
-                "teamNameEN": "Portuguesa"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "巴西聖保羅省聯賽",
-                "tournamentNameEN": "Brazilian Paulista League"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            }
-        },
-        {
-            "matchTime": "2024-02-26T05:00:00.000+08:00",
-            "frontEndId": "FB2064",
-            "homeTeam": {
-                "teamNameCH": "古蘭尼",
-                "teamNameEN": "Guarani SP"
-            },
-            "awayTeam": {
-                "teamNameCH": "聖保羅",
-                "teamNameEN": "Sao Paulo"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "巴西聖保羅省聯賽",
-                "tournamentNameEN": "Brazilian Paulista League"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
             }
         },
         {
