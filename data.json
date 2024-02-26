@@ -637,7 +637,7 @@
                 "tournamentNameEN": "French FA Cup"
             },
             "liveEvent": {
-                "hasLiveInfo": false
+                "hasLiveInfo": true
             }
         },
         {
