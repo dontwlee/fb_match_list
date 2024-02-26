@@ -14,5 +14,5 @@ jobs:
       - name: Delete old Artifacts
         uses: actions/delete-artifact@v2
         with:
-          name: data  # 指定要删除的 Artifacts 名称
+          name: Upload data.json  # 指定要删除的 Artifacts 名称
           retention-days: 1  # 保留最近7天的 Artifacts
