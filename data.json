@@ -1,66 +1,6 @@
 {
     "matches": [
         {
-            "matchTime": "2024-02-26T06:00:00.000+08:00",
-            "frontEndId": "FB2105",
-            "homeTeam": {
-                "teamNameCH": "拿舒維爾",
-                "teamNameEN": "Nashville SC"
-            },
-            "awayTeam": {
-                "teamNameCH": "紐約紅牛",
-                "teamNameEN": "New York Red Bulls"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "美國職業聯賽",
-                "tournamentNameEN": "US Football League"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-26T06:45:00.000+08:00",
-            "frontEndId": "FB2087",
-            "homeTeam": {
-                "teamNameCH": "紐維爾舊生",
-                "teamNameEN": "Newell's Old Boys"
-            },
-            "awayTeam": {
-                "teamNameCH": "羅沙里奧中央",
-                "teamNameEN": "Rosario Central"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "阿根廷甲組聯賽",
-                "tournamentNameEN": "Argentine Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-26T07:27:00.000+08:00",
-            "frontEndId": "FB2143",
-            "homeTeam": {
-                "teamNameCH": "科布雷素",
-                "teamNameEN": "Cobresal"
-            },
-            "awayTeam": {
-                "teamNameCH": "艾斯賓路拿",
-                "teamNameEN": "Union Espanola"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "智利甲組聯賽",
-                "tournamentNameEN": "Chilean Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
             "matchTime": "2024-02-26T08:00:00.000+08:00",
             "frontEndId": "FB2053",
             "homeTeam": {
@@ -90,26 +30,6 @@
             "awayTeam": {
                 "teamNameCH": "班菲特",
                 "teamNameEN": "Banfield"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "阿根廷甲組聯賽",
-                "tournamentNameEN": "Argentine Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
-            "matchTime": "2024-02-26T09:00:00.000+08:00",
-            "frontEndId": "FB2089",
-            "homeTeam": {
-                "teamNameCH": "科爾多瓦學院",
-                "teamNameEN": "Instituto de Cordoba"
-            },
-            "awayTeam": {
-                "teamNameCH": "葛度爾古斯",
-                "teamNameEN": "Godoy Cruz"
             },
             "isESOffer": true,
             "tournament": {
