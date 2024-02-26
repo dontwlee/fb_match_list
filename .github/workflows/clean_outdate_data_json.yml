@@ -3,7 +3,7 @@ name: Clean Up Artifacts
 on:
   schedule:
     - cron: '0 0 * * *'  # 每天的0點運行
-
+    workflow_dispatch:  # 手動觸發
 jobs:
   clean-up:
     runs-on: ubuntu-latest
@@ -15,4 +15,4 @@ jobs:
         uses: actions/delete-artifact@v2
         with:
           name: data  # 指定要删除的 Artifacts 名称
-          retention-days: 7  # 保留最近7天的 Artifacts
+          retention-days: 1  # 保留最近7天的 Artifacts
