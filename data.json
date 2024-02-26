@@ -1,26 +1,6 @@
 {
     "matches": [
         {
-            "matchTime": "2024-02-26T09:00:00.000+08:00",
-            "frontEndId": "FB2086",
-            "homeTeam": {
-                "teamNameCH": "拉魯斯",
-                "teamNameEN": "Lanus"
-            },
-            "awayTeam": {
-                "teamNameCH": "班菲特",
-                "teamNameEN": "Banfield"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "阿根廷甲組聯賽",
-                "tournamentNameEN": "Argentine Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
             "matchTime": "2024-02-26T10:00:00.000+08:00",
             "frontEndId": "FB2123",
             "homeTeam": {
