@@ -411,7 +411,7 @@
                 "teamNameCH": "李斯特城",
                 "teamNameEN": "Leicester"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "英格蘭足總盃",
                 "tournamentNameEN": "FA Cup"
@@ -431,7 +431,7 @@
                 "teamNameCH": "紐卡素",
                 "teamNameEN": "Newcastle"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "英格蘭足總盃",
                 "tournamentNameEN": "FA Cup"
@@ -451,7 +451,7 @@
                 "teamNameCH": "曼城",
                 "teamNameEN": "Manchester City"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "英格蘭足總盃",
                 "tournamentNameEN": "FA Cup"
