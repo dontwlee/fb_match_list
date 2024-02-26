@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: '0 0 * * *'  # 每天的0點運行
   workflow_dispatch:  # 手動觸發
+
 jobs:
   clean-up:
     runs-on: ubuntu-latest
@@ -14,5 +15,5 @@ jobs:
       - name: Delete old Artifacts
         uses: actions/delete-artifact@v2
         with:
-          name: Upload data.json  # 指定要删除的 Artifacts 名称
-          retention-days: 1  # 保留最近7天的 Artifacts
+          name: data  # 修改为与 "Fetch Data" 工作流程产生的 artifacts 名称相同
+          retention-days: 1  # 保留最近1天的 Artifacts
