@@ -1,46 +1,6 @@
 {
     "matches": [
         {
-            "matchTime": "2024-02-27T03:00:00.000+08:00",
-            "frontEndId": "FB1944",
-            "homeTeam": {
-                "teamNameCH": "阿爾克馬爾青年隊",
-                "teamNameEN": "Jong AZ Alkmaar"
-            },
-            "awayTeam": {
-                "teamNameCH": "NAC",
-                "teamNameEN": "NAC"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "荷蘭乙組聯賽",
-                "tournamentNameEN": "Dutch Division 2"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            }
-        },
-        {
-            "matchTime": "2024-02-27T03:30:00.000+08:00",
-            "frontEndId": "FB2076",
-            "homeTeam": {
-                "teamNameCH": "米蘭迪斯",
-                "teamNameEN": "Mirandes"
-            },
-            "awayTeam": {
-                "teamNameCH": "侯爾斯卡",
-                "teamNameEN": "Huesca"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "西班牙乙組聯賽",
-                "tournamentNameEN": "Spanish Division 2"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
             "matchTime": "2024-02-27T03:45:00.000+08:00",
             "frontEndId": "FB2051",
             "homeTeam": {
