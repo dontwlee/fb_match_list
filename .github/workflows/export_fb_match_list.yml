@@ -29,6 +29,9 @@ jobs:
           name: data
           path: data.json
 
+      - name: Clean up data.json
+        run: rm data.json  # 删除工作流程生成的 data.json 文件
+
       - name: Commit and push changes
         run: |
           git add data.json
