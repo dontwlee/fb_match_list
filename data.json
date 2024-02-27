@@ -1,26 +1,6 @@
 {
     "matches": [
         {
-            "matchTime": "2024-02-27T11:15:00.000+08:00",
-            "frontEndId": "FB2205",
-            "homeTeam": {
-                "teamNameCH": "美國女足",
-                "teamNameEN": "USA Women"
-            },
-            "awayTeam": {
-                "teamNameCH": "墨西哥女足",
-                "teamNameEN": "Mexico Women"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "盃賽",
-                "tournamentNameEN": "Cup Competition"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            }
-        },
-        {
             "matchTime": "2024-02-27T20:00:00.000+08:00",
             "frontEndId": "FB2223",
             "homeTeam": {
