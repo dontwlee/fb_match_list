@@ -32,7 +32,8 @@ def fetch_data_and_save():
                 },
                 "liveEvent": {
                     "hasLiveInfo": match["liveEvent"]["hasLiveInfo"]
-                }
+                },
+                "anyInplaySelling": match["anyInplaySelling"]
             }
             new_matches.append(new_match)
         
