@@ -1,48 +1,6 @@
 {
     "matches": [
         {
-            "matchTime": "2024-03-01T23:00:00.000+08:00",
-            "frontEndId": "FB2660",
-            "homeTeam": {
-                "teamNameCH": "馬利漢",
-                "teamNameEN": "IFK Mariehamn"
-            },
-            "awayTeam": {
-                "teamNameCH": "格尼斯坦",
-                "teamNameEN": "Gnistan"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "盃賽",
-                "tournamentNameEN": "Cup Competition"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "-1"
-        },
-        {
-            "matchTime": "2024-03-02T00:00:00.000+08:00",
-            "frontEndId": "FB2282",
-            "homeTeam": {
-                "teamNameCH": "羅斯托夫",
-                "teamNameEN": "Rostov"
-            },
-            "awayTeam": {
-                "teamNameCH": "森馬拉",
-                "teamNameEN": "Krylya Sovetov Samara"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "俄羅斯超級聯賽",
-                "tournamentNameEN": "Russian Premier"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "-1"
-        },
-        {
             "matchTime": "2024-03-02T01:30:00.000+08:00",
             "frontEndId": "FB2257",
             "homeTeam": {
@@ -3308,7 +3266,7 @@
                 "teamNameCH": "華盛頓聯隊",
                 "teamNameEN": "DC United"
             },
-            "isESOffer": true,
+            "isESOffer": false,
             "tournament": {
                 "tournamentNameCH": "美國職業聯賽",
                 "tournamentNameEN": "US Football League"
@@ -3329,7 +3287,7 @@
                 "teamNameCH": "洛杉磯銀河",
                 "teamNameEN": "LA Galaxy"
             },
-            "isESOffer": true,
+            "isESOffer": false,
             "tournament": {
                 "tournamentNameCH": "美國職業聯賽",
                 "tournamentNameEN": "US Football League"
@@ -3350,7 +3308,7 @@
                 "teamNameCH": "FC奧斯汀",
                 "teamNameEN": "Austin FC"
             },
-            "isESOffer": true,
+            "isESOffer": false,
             "tournament": {
                 "tournamentNameCH": "美國職業聯賽",
                 "tournamentNameEN": "US Football League"
