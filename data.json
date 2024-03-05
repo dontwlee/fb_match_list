@@ -662,7 +662,7 @@
                 "teamNameCH": "仙台維加泰",
                 "teamNameEN": "Vegalta Sendai"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "日本聯賽盃",
                 "tournamentNameEN": "Japanese League Cup"
@@ -683,7 +683,7 @@
                 "teamNameCH": "長崎成功丸",
                 "teamNameEN": "V-Varen Nagasaki"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "日本聯賽盃",
                 "tournamentNameEN": "Japanese League Cup"
@@ -704,7 +704,7 @@
                 "teamNameCH": "藤枝MYFC",
                 "teamNameEN": "Fujieda MYFC"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "日本聯賽盃",
                 "tournamentNameEN": "Japanese League Cup"
@@ -746,7 +746,7 @@
                 "teamNameCH": "千葉市原",
                 "teamNameEN": "JEF United Chiba"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "日本聯賽盃",
                 "tournamentNameEN": "Japanese League Cup"
@@ -767,7 +767,7 @@
                 "teamNameCH": "秋田藍閃電",
                 "teamNameEN": "Blaublitz Akita"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "日本聯賽盃",
                 "tournamentNameEN": "Japanese League Cup"
@@ -788,7 +788,7 @@
                 "teamNameCH": "岡山綠雉",
                 "teamNameEN": "Fagiano Okayama"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "日本聯賽盃",
                 "tournamentNameEN": "Japanese League Cup"
@@ -809,7 +809,7 @@
                 "teamNameCH": "SC相模原",
                 "teamNameEN": "SC Sagamihara"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "日本聯賽盃",
                 "tournamentNameEN": "Japanese League Cup"
@@ -830,7 +830,7 @@
                 "teamNameCH": "水戶蜀葵",
                 "teamNameEN": "Mito Hollyhock"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "日本聯賽盃",
                 "tournamentNameEN": "Japanese League Cup"
@@ -872,7 +872,7 @@
                 "teamNameCH": "普雷斯頓",
                 "teamNameEN": "Preston"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "英格蘭冠軍聯賽",
                 "tournamentNameEN": "Eng Championship"
@@ -893,7 +893,7 @@
                 "teamNameCH": "諾域治",
                 "teamNameEN": "Norwich"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "英格蘭冠軍聯賽",
                 "tournamentNameEN": "Eng Championship"
@@ -914,7 +914,7 @@
                 "teamNameCH": "哈特斯菲爾德",
                 "teamNameEN": "Huddersfield"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "英格蘭冠軍聯賽",
                 "tournamentNameEN": "Eng Championship"
@@ -935,7 +935,7 @@
                 "teamNameCH": "史雲斯",
                 "teamNameEN": "Swansea"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "英格蘭冠軍聯賽",
                 "tournamentNameEN": "Eng Championship"
@@ -998,7 +998,7 @@
                 "teamNameCH": "西布朗",
                 "teamNameEN": "West Bromwich"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "英格蘭冠軍聯賽",
                 "tournamentNameEN": "Eng Championship"
@@ -1040,7 +1040,7 @@
                 "teamNameCH": "卡拉雷聯",
                 "teamNameEN": "Union La Calera"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "南美球會盃",
                 "tournamentNameEN": "South American Cup"
@@ -1061,7 +1061,7 @@
                 "teamNameCH": "國民普托斯",
                 "teamNameEN": "Nacional Potosi"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "南美球會盃",
                 "tournamentNameEN": "South American Cup"
@@ -1124,7 +1124,7 @@
                 "teamNameCH": "阿拉祖蘭斯",
                 "teamNameEN": "Alajuelense"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "中北美洲冠軍盃",
                 "tournamentNameEN": "Central and North American Cup"
@@ -1229,7 +1229,7 @@
                 "teamNameCH": "SC迪爾芬",
                 "teamNameEN": "Delfin SC"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "南美球會盃",
                 "tournamentNameEN": "South American Cup"
@@ -1250,7 +1250,7 @@
                 "teamNameCH": "路昆奴",
                 "teamNameEN": "Sportivo Luqueno"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "南美球會盃",
                 "tournamentNameEN": "South American Cup"
@@ -1271,7 +1271,7 @@
                 "teamNameCH": "達奴比奧",
                 "teamNameEN": "Danubio"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "南美球會盃",
                 "tournamentNameEN": "South American Cup"
@@ -1292,7 +1292,7 @@
                 "teamNameCH": "哥倫布機員",
                 "teamNameEN": "Columbus Crew"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "中北美洲冠軍盃",
                 "tournamentNameEN": "Central and North American Cup"
@@ -1313,7 +1313,7 @@
                 "teamNameCH": "阿美利加",
                 "teamNameEN": "America de Cali"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "南美球會盃",
                 "tournamentNameEN": "South American Cup"
@@ -1334,7 +1334,7 @@
                 "teamNameCH": "CF 阿美利加",
                 "teamNameEN": "CF America"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "中北美洲冠軍盃",
                 "tournamentNameEN": "Central and North American Cup"
@@ -1418,7 +1418,7 @@
                 "teamNameCH": "阿士東維拉",
                 "teamNameEN": "Aston Villa"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "歐洲協會聯賽",
                 "tournamentNameEN": "UE Conference"
@@ -1439,7 +1439,7 @@
                 "teamNameCH": "布魯日",
                 "teamNameEN": "Bruges"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "歐洲協會聯賽",
                 "tournamentNameEN": "UE Conference"
@@ -1460,7 +1460,7 @@
                 "teamNameCH": "特拉維夫馬卡比",
                 "teamNameEN": "Maccabi Tel Aviv"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "歐洲協會聯賽",
                 "tournamentNameEN": "UE Conference"
@@ -1481,7 +1481,7 @@
                 "teamNameCH": "里爾",
                 "teamNameEN": "Lille"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "歐洲協會聯賽",
                 "tournamentNameEN": "UE Conference"
@@ -1586,7 +1586,7 @@
                 "teamNameCH": "泰拿尼斯",
                 "teamNameEN": "Talleres"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "阿根廷甲組聯賽",
                 "tournamentNameEN": "Argentine Division 1"
@@ -1607,7 +1607,7 @@
                 "teamNameCH": "PAOK",
                 "teamNameEN": "PAOK"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "歐洲協會聯賽",
                 "tournamentNameEN": "UE Conference"
@@ -1628,7 +1628,7 @@
                 "teamNameCH": "費倫天拿",
                 "teamNameEN": "Fiorentina"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "歐洲協會聯賽",
                 "tournamentNameEN": "UE Conference"
@@ -1649,7 +1649,7 @@
                 "teamNameCH": "柏辛域陀尼亞",
                 "teamNameEN": "Viktoria Plzen"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "歐洲協會聯賽",
                 "tournamentNameEN": "UE Conference"
@@ -1670,7 +1670,7 @@
                 "teamNameCH": "費倫巴治",
                 "teamNameEN": "Fenerbahce"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "歐洲協會聯賽",
                 "tournamentNameEN": "UE Conference"
@@ -1691,7 +1691,7 @@
                 "teamNameCH": "CA科爾多瓦中央",
                 "teamNameEN": "CA Central Cordoba"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "阿根廷甲組聯賽",
                 "tournamentNameEN": "Argentine Division 1"
@@ -1712,7 +1712,7 @@
                 "teamNameCH": "阿古亞辛達",
                 "teamNameEN": "Agua Santa"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "巴西盃",
                 "tournamentNameEN": "Brazilian Cup"
@@ -1733,7 +1733,7 @@
                 "teamNameCH": "蒙特雷",
                 "teamNameEN": "Monterrey"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "中北美洲冠軍盃",
                 "tournamentNameEN": "Central and North American Cup"
@@ -1754,7 +1754,7 @@
                 "teamNameCH": "堤格雷",
                 "teamNameEN": "Tigre"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "阿根廷甲組聯賽",
                 "tournamentNameEN": "Argentine Division 1"
@@ -1775,7 +1775,7 @@
                 "teamNameCH": "防衛者",
                 "teamNameEN": "Defensa y Justicia"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "阿根廷甲組聯賽",
                 "tournamentNameEN": "Argentine Division 1"
@@ -1796,7 +1796,7 @@
                 "teamNameCH": "蒙特維多國民隊",
                 "teamNameEN": "Montevideo Nacional"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "南美自由盃",
                 "tournamentNameEN": "Copa Libertadores"
@@ -1817,7 +1817,7 @@
                 "teamNameCH": "國際邁亞密",
                 "teamNameEN": "Inter Miami CF"
             },
-            "isESOffer": false,
+            "isESOffer": true,
             "tournament": {
                 "tournamentNameCH": "中北美洲冠軍盃",
                 "tournamentNameEN": "Central and North American Cup"
