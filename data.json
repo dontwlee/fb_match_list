@@ -1,69 +1,6 @@
 {
     "matches": [
         {
-            "matchTime": "2024-03-08T20:00:00.000+08:00",
-            "frontEndId": "FB3018",
-            "homeTeam": {
-                "teamNameCH": "費德列斯達",
-                "teamNameEN": "Fredrikstad"
-            },
-            "awayTeam": {
-                "teamNameCH": "辛迪夫佐特",
-                "teamNameEN": "Sandefjord"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "球會賽",
-                "tournamentNameEN": "Club Matches"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-03-08T23:00:00.000+08:00",
-            "frontEndId": "FB3019",
-            "homeTeam": {
-                "teamNameCH": "加納U20",
-                "teamNameEN": "Ghana U20"
-            },
-            "awayTeam": {
-                "teamNameCH": "剛果U20",
-                "teamNameEN": "Congo U20"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "國際賽",
-                "tournamentNameEN": "International Matches"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "-1"
-        },
-        {
-            "matchTime": "2024-03-08T23:30:00.000+08:00",
-            "frontEndId": "FB2921",
-            "homeTeam": {
-                "teamNameCH": "羅斯托夫",
-                "teamNameEN": "Rostov"
-            },
-            "awayTeam": {
-                "teamNameCH": "卡斯洛達",
-                "teamNameEN": "FK Krasnodar"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "俄羅斯超級聯賽",
-                "tournamentNameEN": "Russian Premier"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "-1"
-        },
-        {
             "matchTime": "2024-03-09T01:30:00.000+08:00",
             "frontEndId": "FB2908",
             "homeTeam": {
@@ -4784,7 +4721,7 @@
                 "tournamentNameEN": "Scottish FA Cup"
             },
             "liveEvent": {
-                "hasLiveInfo": false
+                "hasLiveInfo": true
             },
             "anyInplaySelling": "1"
         },
