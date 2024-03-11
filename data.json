@@ -1,65 +1,23 @@
 {
     "matches": [
         {
-            "matchTime": "2024-03-11T08:15:00.000+08:00",
-            "frontEndId": "FB3135",
+            "matchTime": "2024-03-12T01:00:00.000+08:00",
+            "frontEndId": "FB3154",
             "homeTeam": {
-                "teamNameCH": "美國女足",
-                "teamNameEN": "USA Women"
+                "teamNameCH": "塞內加爾U20",
+                "teamNameEN": "Senegal U20"
             },
             "awayTeam": {
-                "teamNameCH": "巴西女足",
-                "teamNameEN": "Brazil Women"
+                "teamNameCH": "烏干達U20",
+                "teamNameEN": "Uganda U20"
             },
             "isESOffer": true,
             "tournament": {
-                "tournamentNameCH": "盃賽",
-                "tournamentNameEN": "Cup Competition"
+                "tournamentNameCH": "國際賽",
+                "tournamentNameEN": "International Matches"
             },
             "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-03-11T08:30:00.000+08:00",
-            "frontEndId": "FB3081",
-            "homeTeam": {
-                "teamNameCH": "小保加",
-                "teamNameEN": "Boca Juniors"
-            },
-            "awayTeam": {
-                "teamNameCH": "競賽會",
-                "teamNameEN": "Racing Club"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "阿根廷甲組聯賽",
-                "tournamentNameEN": "Argentine Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "0"
-        },
-        {
-            "matchTime": "2024-03-11T09:00:00.000+08:00",
-            "frontEndId": "FB3049",
-            "homeTeam": {
-                "teamNameCH": "蒙特雷",
-                "teamNameEN": "Monterrey"
-            },
-            "awayTeam": {
-                "teamNameCH": "FC馬薩特蘭",
-                "teamNameEN": "Mazatlan FC"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "墨西哥超級聯賽",
-                "tournamentNameEN": "Mexican Premier"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
+                "hasLiveInfo": false
             },
             "anyInplaySelling": "1"
         },
@@ -463,6 +421,27 @@
             "anyInplaySelling": "1"
         },
         {
+            "matchTime": "2024-03-12T16:00:00.000+08:00",
+            "frontEndId": "FB3153",
+            "homeTeam": {
+                "teamNameCH": "墨爾本城",
+                "teamNameEN": "Melbourne City"
+            },
+            "awayTeam": {
+                "teamNameCH": "西悉尼流浪者",
+                "teamNameEN": "Western Sydney Wanderers"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "澳洲職業聯賽",
+                "tournamentNameEN": "Australian Division 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
             "matchTime": "2024-03-12T18:00:00.000+08:00",
             "frontEndId": "FB3145",
             "homeTeam": {
@@ -484,6 +463,48 @@
             "anyInplaySelling": "1"
         },
         {
+            "matchTime": "2024-03-12T23:00:00.000+08:00",
+            "frontEndId": "FB3190",
+            "homeTeam": {
+                "teamNameCH": "奇姆基",
+                "teamNameEN": "Khimki"
+            },
+            "awayTeam": {
+                "teamNameCH": "卡斯洛達",
+                "teamNameEN": "FK Krasnodar"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "俄羅斯盃",
+                "tournamentNameEN": "Russian Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "-1"
+        },
+        {
+            "matchTime": "2024-03-13T01:15:00.000+08:00",
+            "frontEndId": "FB3191",
+            "homeTeam": {
+                "teamNameCH": "莫斯科中央陸軍",
+                "teamNameEN": "CSKA Moscow"
+            },
+            "awayTeam": {
+                "teamNameCH": "羅斯托夫",
+                "teamNameEN": "Rostov"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "俄羅斯盃",
+                "tournamentNameEN": "Russian Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "-1"
+        },
+        {
             "matchTime": "2024-03-13T03:00:00.000+08:00",
             "frontEndId": "FB3147",
             "homeTeam": {
@@ -498,6 +519,321 @@
             "tournament": {
                 "tournamentNameCH": "亞洲聯賽冠軍盃",
                 "tournamentNameEN": "Asian Champions League"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-13T03:30:00.000+08:00",
+            "frontEndId": "FB3167",
+            "homeTeam": {
+                "teamNameCH": "沙貝魯根",
+                "teamNameEN": "Saarbrucken"
+            },
+            "awayTeam": {
+                "teamNameCH": "慕遜加柏",
+                "teamNameEN": "Monchengladbach"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "德國盃",
+                "tournamentNameEN": "German Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-13T03:45:00.000+08:00",
+            "frontEndId": "FB3182",
+            "homeTeam": {
+                "teamNameCH": "伯明翰",
+                "teamNameEN": "Birmingham"
+            },
+            "awayTeam": {
+                "teamNameCH": "米杜士堡",
+                "teamNameEN": "Middlesbrough"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "英格蘭冠軍聯賽",
+                "tournamentNameEN": "Eng Championship"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "-1"
+        },
+        {
+            "matchTime": "2024-03-13T03:45:00.000+08:00",
+            "frontEndId": "FB3157",
+            "homeTeam": {
+                "teamNameCH": "卡素爾",
+                "teamNameEN": "Carlisle"
+            },
+            "awayTeam": {
+                "teamNameCH": "班士利",
+                "teamNameEN": "Barnsley"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "英格蘭甲組聯賽",
+                "tournamentNameEN": "Eng League 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "-1"
+        },
+        {
+            "matchTime": "2024-03-13T03:45:00.000+08:00",
+            "frontEndId": "FB3158",
+            "homeTeam": {
+                "teamNameCH": "打比郡",
+                "teamNameEN": "Derby"
+            },
+            "awayTeam": {
+                "teamNameCH": "雷丁",
+                "teamNameEN": "Reading"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "英格蘭甲組聯賽",
+                "tournamentNameEN": "Eng League 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "-1"
+        },
+        {
+            "matchTime": "2024-03-13T03:45:00.000+08:00",
+            "frontEndId": "FB3159",
+            "homeTeam": {
+                "teamNameCH": "費列活特",
+                "teamNameEN": "Fleetwood"
+            },
+            "awayTeam": {
+                "teamNameCH": "布里斯托流浪",
+                "teamNameEN": "Bristol Rovers"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "英格蘭甲組聯賽",
+                "tournamentNameEN": "Eng League 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "-1"
+        },
+        {
+            "matchTime": "2024-03-13T03:45:00.000+08:00",
+            "frontEndId": "FB3161",
+            "homeTeam": {
+                "teamNameCH": "奧連特",
+                "teamNameEN": "Leyton Orient"
+            },
+            "awayTeam": {
+                "teamNameCH": "維爾港",
+                "teamNameEN": "Port Vale"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "英格蘭甲組聯賽",
+                "tournamentNameEN": "Eng League 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "-1"
+        },
+        {
+            "matchTime": "2024-03-13T03:45:00.000+08:00",
+            "frontEndId": "FB3160",
+            "homeTeam": {
+                "teamNameCH": "林肯城",
+                "teamNameEN": "Lincoln City"
+            },
+            "awayTeam": {
+                "teamNameCH": "劍橋聯",
+                "teamNameEN": "Cambridge Utd"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "英格蘭甲組聯賽",
+                "tournamentNameEN": "Eng League 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "-1"
+        },
+        {
+            "matchTime": "2024-03-13T03:45:00.000+08:00",
+            "frontEndId": "FB3162",
+            "homeTeam": {
+                "teamNameCH": "諾咸頓",
+                "teamNameEN": "Northampton"
+            },
+            "awayTeam": {
+                "teamNameCH": "黑池",
+                "teamNameEN": "Blackpool"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "英格蘭甲組聯賽",
+                "tournamentNameEN": "Eng League 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "-1"
+        },
+        {
+            "matchTime": "2024-03-13T03:45:00.000+08:00",
+            "frontEndId": "FB3165",
+            "homeTeam": {
+                "teamNameCH": "樸茨茅夫",
+                "teamNameEN": "Portsmouth"
+            },
+            "awayTeam": {
+                "teamNameCH": "伯頓",
+                "teamNameEN": "Burton Albion"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "英格蘭甲組聯賽",
+                "tournamentNameEN": "Eng League 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "-1"
+        },
+        {
+            "matchTime": "2024-03-13T03:45:00.000+08:00",
+            "frontEndId": "FB3163",
+            "homeTeam": {
+                "teamNameCH": "梳士貝利",
+                "teamNameEN": "Shrewsbury"
+            },
+            "awayTeam": {
+                "teamNameCH": "埃克塞特",
+                "teamNameEN": "Exeter City"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "英格蘭甲組聯賽",
+                "tournamentNameEN": "Eng League 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "-1"
+        },
+        {
+            "matchTime": "2024-03-13T03:45:00.000+08:00",
+            "frontEndId": "FB3166",
+            "homeTeam": {
+                "teamNameCH": "韋甘比",
+                "teamNameEN": "Wycombe"
+            },
+            "awayTeam": {
+                "teamNameCH": "韋根",
+                "teamNameEN": "Wigan"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "英格蘭甲組聯賽",
+                "tournamentNameEN": "Eng League 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "-1"
+        },
+        {
+            "matchTime": "2024-03-13T04:00:00.000+08:00",
+            "frontEndId": "FB3152",
+            "homeTeam": {
+                "teamNameCH": "巴塞隆拿",
+                "teamNameEN": "Barcelona"
+            },
+            "awayTeam": {
+                "teamNameCH": "拿玻里",
+                "teamNameEN": "Napoli"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "歐洲聯賽冠軍盃",
+                "tournamentNameEN": "UE Champions"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-13T04:00:00.000+08:00",
+            "frontEndId": "FB3150",
+            "homeTeam": {
+                "teamNameCH": "阿仙奴",
+                "teamNameEN": "Arsenal"
+            },
+            "awayTeam": {
+                "teamNameCH": "波圖",
+                "teamNameEN": "Porto"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "歐洲聯賽冠軍盃",
+                "tournamentNameEN": "UE Champions"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-13T04:00:00.000+08:00",
+            "frontEndId": "FB3156",
+            "homeTeam": {
+                "teamNameCH": "保頓",
+                "teamNameEN": "Bolton"
+            },
+            "awayTeam": {
+                "teamNameCH": "牛津聯",
+                "teamNameEN": "Oxford Utd"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "英格蘭甲組聯賽",
+                "tournamentNameEN": "Eng League 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "-1"
+        },
+        {
+            "matchTime": "2024-03-13T06:00:00.000+08:00",
+            "frontEndId": "FB3195",
+            "homeTeam": {
+                "teamNameCH": "哥倫布機員",
+                "teamNameEN": "Columbus Crew"
+            },
+            "awayTeam": {
+                "teamNameCH": "侯斯頓戴拿模",
+                "teamNameEN": "Houston Dynamo"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "中北美洲冠軍盃",
+                "tournamentNameEN": "Central and North American Cup"
             },
             "liveEvent": {
                 "hasLiveInfo": true
@@ -523,7 +859,112 @@
             "liveEvent": {
                 "hasLiveInfo": true
             },
-            "anyInplaySelling": "-1"
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-13T08:15:00.000+08:00",
+            "frontEndId": "FB3196",
+            "homeTeam": {
+                "teamNameCH": "帕丘卡",
+                "teamNameEN": "Pachuca"
+            },
+            "awayTeam": {
+                "teamNameCH": "費城聯",
+                "teamNameEN": "Philadelphia Union"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "中北美洲冠軍盃",
+                "tournamentNameEN": "Central and North American Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-13T08:30:00.000+08:00",
+            "frontEndId": "FB3194",
+            "homeTeam": {
+                "teamNameCH": "柏利斯天奴",
+                "teamNameEN": "Palestino"
+            },
+            "awayTeam": {
+                "teamNameCH": "國民會",
+                "teamNameEN": "Club Nacional"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "南美自由盃",
+                "tournamentNameEN": "Copa Libertadores"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-13T10:30:00.000+08:00",
+            "frontEndId": "FB3197",
+            "homeTeam": {
+                "teamNameCH": "堤格雷斯",
+                "teamNameEN": "Tigres UANL"
+            },
+            "awayTeam": {
+                "teamNameCH": "奧蘭多城",
+                "teamNameEN": "Orlando City"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "中北美洲冠軍盃",
+                "tournamentNameEN": "Central and North American Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-13T17:00:00.000+08:00",
+            "frontEndId": "FB3169",
+            "homeTeam": {
+                "teamNameCH": "岩手盛岡仙鶴",
+                "teamNameEN": "Iwate Grulla Morioka"
+            },
+            "awayTeam": {
+                "teamNameCH": "櫪木SC",
+                "teamNameEN": "Tochigi SC"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "日本聯賽盃",
+                "tournamentNameEN": "Japanese League Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-13T17:30:00.000+08:00",
+            "frontEndId": "FB3187",
+            "homeTeam": {
+                "teamNameCH": "八戶雲羅里",
+                "teamNameEN": "Vanraure Hachinohe"
+            },
+            "awayTeam": {
+                "teamNameCH": "金澤薩維根",
+                "teamNameEN": "Zweigen Kanazawa"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "日本聯賽盃",
+                "tournamentNameEN": "Japanese League Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "1"
         },
         {
             "matchTime": "2024-03-13T18:00:00.000+08:00",
@@ -536,10 +977,514 @@
                 "teamNameCH": "FC山東",
                 "teamNameEN": "FC Shandong"
             },
-            "isESOffer": true,
+            "isESOffer": false,
             "tournament": {
                 "tournamentNameCH": "亞洲聯賽冠軍盃",
                 "tournamentNameEN": "Asian Champions League"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-13T18:00:00.000+08:00",
+            "frontEndId": "FB3181",
+            "homeTeam": {
+                "teamNameCH": "FC岐阜",
+                "teamNameEN": "FC Gifu"
+            },
+            "awayTeam": {
+                "teamNameCH": "大宮松鼠",
+                "teamNameEN": "Omiya Ardija"
+            },
+            "isESOffer": false,
+            "tournament": {
+                "tournamentNameCH": "日本聯賽盃",
+                "tournamentNameEN": "Japanese League Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-13T18:00:00.000+08:00",
+            "frontEndId": "FB3186",
+            "homeTeam": {
+                "teamNameCH": "FC大阪",
+                "teamNameEN": "FC Osaka"
+            },
+            "awayTeam": {
+                "teamNameCH": "磐城FC",
+                "teamNameEN": "Iwaki FC"
+            },
+            "isESOffer": false,
+            "tournament": {
+                "tournamentNameCH": "日本聯賽盃",
+                "tournamentNameEN": "Japanese League Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-13T18:00:00.000+08:00",
+            "frontEndId": "FB3193",
+            "homeTeam": {
+                "teamNameCH": "福島聯",
+                "teamNameEN": "Fukushima Utd"
+            },
+            "awayTeam": {
+                "teamNameCH": "熊本羅亞素",
+                "teamNameEN": "Roasso Kumamoto"
+            },
+            "isESOffer": false,
+            "tournament": {
+                "tournamentNameCH": "日本聯賽盃",
+                "tournamentNameEN": "Japanese League Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-13T18:00:00.000+08:00",
+            "frontEndId": "FB3184",
+            "homeTeam": {
+                "teamNameCH": "富山勝利",
+                "teamNameEN": "Kataller Toyama"
+            },
+            "awayTeam": {
+                "teamNameCH": "山形山神",
+                "teamNameEN": "Montedio Yamagata"
+            },
+            "isESOffer": false,
+            "tournament": {
+                "tournamentNameCH": "日本聯賽盃",
+                "tournamentNameEN": "Japanese League Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-13T18:00:00.000+08:00",
+            "frontEndId": "FB3170",
+            "homeTeam": {
+                "teamNameCH": "松本山雅",
+                "teamNameEN": "Matsumoto Yamaga"
+            },
+            "awayTeam": {
+                "teamNameCH": "山口雷法",
+                "teamNameEN": "Renofa Yamaguchi"
+            },
+            "isESOffer": false,
+            "tournament": {
+                "tournamentNameCH": "日本聯賽盃",
+                "tournamentNameEN": "Japanese League Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-13T18:00:00.000+08:00",
+            "frontEndId": "FB3183",
+            "homeTeam": {
+                "teamNameCH": "長野帕塞羅",
+                "teamNameEN": "Nagano Parceiro"
+            },
+            "awayTeam": {
+                "teamNameCH": "德島漩渦",
+                "teamNameEN": "Tokushima Vortis"
+            },
+            "isESOffer": false,
+            "tournament": {
+                "tournamentNameCH": "日本聯賽盃",
+                "tournamentNameEN": "Japanese League Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-14T03:30:00.000+08:00",
+            "frontEndId": "FB3151",
+            "homeTeam": {
+                "teamNameCH": "般尼茅夫",
+                "teamNameEN": "Bournemouth"
+            },
+            "awayTeam": {
+                "teamNameCH": "盧頓",
+                "teamNameEN": "Luton"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "英格蘭超級聯賽",
+                "tournamentNameEN": "Eng Premier"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-14T03:45:00.000+08:00",
+            "frontEndId": "FB3173",
+            "homeTeam": {
+                "teamNameCH": "登地",
+                "teamNameEN": "Dundee"
+            },
+            "awayTeam": {
+                "teamNameCH": "鴨巴甸",
+                "teamNameEN": "Aberdeen"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "蘇格蘭超級聯賽",
+                "tournamentNameEN": "Scottish Premier"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "-1"
+        },
+        {
+            "matchTime": "2024-03-14T03:45:00.000+08:00",
+            "frontEndId": "FB3174",
+            "homeTeam": {
+                "teamNameCH": "羅斯郡",
+                "teamNameEN": "Ross County"
+            },
+            "awayTeam": {
+                "teamNameCH": "喜伯年",
+                "teamNameEN": "Hibernian"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "蘇格蘭超級聯賽",
+                "tournamentNameEN": "Scottish Premier"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "-1"
+        },
+        {
+            "matchTime": "2024-03-14T04:00:00.000+08:00",
+            "frontEndId": "FB3149",
+            "homeTeam": {
+                "teamNameCH": "馬德里體育會",
+                "teamNameEN": "Atletico Madrid"
+            },
+            "awayTeam": {
+                "teamNameCH": "國際米蘭",
+                "teamNameEN": "Inter Milan"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "歐洲聯賽冠軍盃",
+                "tournamentNameEN": "UE Champions"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-14T04:00:00.000+08:00",
+            "frontEndId": "FB3148",
+            "homeTeam": {
+                "teamNameCH": "多蒙特",
+                "teamNameEN": "Dortmund"
+            },
+            "awayTeam": {
+                "teamNameCH": "燕豪芬",
+                "teamNameEN": "PSV Eindhoven"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "歐洲聯賽冠軍盃",
+                "tournamentNameEN": "UE Champions"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-14T04:00:00.000+08:00",
+            "frontEndId": "FB3164",
+            "homeTeam": {
+                "teamNameCH": "彼德堡",
+                "teamNameEN": "Peterborough"
+            },
+            "awayTeam": {
+                "teamNameCH": "史提芬納治",
+                "teamNameEN": "Stevenage"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "英格蘭甲組聯賽",
+                "tournamentNameEN": "Eng League 1"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "-1"
+        },
+        {
+            "matchTime": "2024-03-14T04:10:00.000+08:00",
+            "frontEndId": "FB3168",
+            "homeTeam": {
+                "teamNameCH": "巴黎聖日耳門",
+                "teamNameEN": "Paris Saint Germain"
+            },
+            "awayTeam": {
+                "teamNameCH": "尼斯",
+                "teamNameEN": "Nice"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "法國足總盃",
+                "tournamentNameEN": "French FA Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-14T08:10:00.000+08:00",
+            "frontEndId": "FB3189",
+            "homeTeam": {
+                "teamNameCH": "河床",
+                "teamNameEN": "River Plate"
+            },
+            "awayTeam": {
+                "teamNameCH": "學生隊",
+                "teamNameEN": "Estudiantes"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "阿根廷超級盃",
+                "tournamentNameEN": "Argentine Super Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-14T08:30:00.000+08:00",
+            "frontEndId": "FB3185",
+            "homeTeam": {
+                "teamNameCH": "巴拉干天奴紅牛",
+                "teamNameEN": "RB Bragantino"
+            },
+            "awayTeam": {
+                "teamNameCH": "保地花高",
+                "teamNameEN": "Botafogo"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "南美自由盃",
+                "tournamentNameEN": "Copa Libertadores"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-14T08:30:00.000+08:00",
+            "frontEndId": "FB3188",
+            "homeTeam": {
+                "teamNameCH": "高路高路",
+                "teamNameEN": "Colo Colo"
+            },
+            "awayTeam": {
+                "teamNameCH": "特立尼登斯",
+                "teamNameEN": "Sportivo Trinidense"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "南美自由盃",
+                "tournamentNameEN": "Copa Libertadores"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-15T01:45:00.000+08:00",
+            "frontEndId": "FB3177",
+            "homeTeam": {
+                "teamNameCH": "格拉斯哥流浪",
+                "teamNameEN": "Rangers"
+            },
+            "awayTeam": {
+                "teamNameCH": "賓菲加",
+                "teamNameEN": "Benfica"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "歐霸盃",
+                "tournamentNameEN": "UE Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-15T01:45:00.000+08:00",
+            "frontEndId": "FB3178",
+            "homeTeam": {
+                "teamNameCH": "布拉格斯拉維亞",
+                "teamNameEN": "Slavia Prague"
+            },
+            "awayTeam": {
+                "teamNameCH": "AC米蘭",
+                "teamNameEN": "AC Milan"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "歐霸盃",
+                "tournamentNameEN": "UE Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-15T01:45:00.000+08:00",
+            "frontEndId": "FB3176",
+            "homeTeam": {
+                "teamNameCH": "維拉利爾",
+                "teamNameEN": "Villarreal"
+            },
+            "awayTeam": {
+                "teamNameCH": "馬賽",
+                "teamNameEN": "Marseille"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "歐霸盃",
+                "tournamentNameEN": "UE Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-15T01:45:00.000+08:00",
+            "frontEndId": "FB3175",
+            "homeTeam": {
+                "teamNameCH": "韋斯咸",
+                "teamNameEN": "West Ham"
+            },
+            "awayTeam": {
+                "teamNameCH": "弗賴堡",
+                "teamNameEN": "Freiburg"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "歐霸盃",
+                "tournamentNameEN": "UE Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-15T04:00:00.000+08:00",
+            "frontEndId": "FB3171",
+            "homeTeam": {
+                "teamNameCH": "利物浦",
+                "teamNameEN": "Liverpool"
+            },
+            "awayTeam": {
+                "teamNameCH": "布拉格斯巴達",
+                "teamNameEN": "Sparta Prague"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "歐霸盃",
+                "tournamentNameEN": "UE Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-15T04:00:00.000+08:00",
+            "frontEndId": "FB3179",
+            "homeTeam": {
+                "teamNameCH": "利華古遜",
+                "teamNameEN": "Leverkusen"
+            },
+            "awayTeam": {
+                "teamNameCH": "卡拉巴克",
+                "teamNameEN": "Qarabag"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "歐霸盃",
+                "tournamentNameEN": "UE Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-15T04:00:00.000+08:00",
+            "frontEndId": "FB3180",
+            "homeTeam": {
+                "teamNameCH": "阿特蘭大",
+                "teamNameEN": "Atalanta"
+            },
+            "awayTeam": {
+                "teamNameCH": "士砵亭",
+                "teamNameEN": "Sporting"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "歐霸盃",
+                "tournamentNameEN": "UE Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-03-15T04:00:00.000+08:00",
+            "frontEndId": "FB3172",
+            "homeTeam": {
+                "teamNameCH": "白禮頓",
+                "teamNameEN": "Brighton"
+            },
+            "awayTeam": {
+                "teamNameCH": "羅馬",
+                "teamNameEN": "Roma"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "歐霸盃",
+                "tournamentNameEN": "UE Cup"
             },
             "liveEvent": {
                 "hasLiveInfo": true
