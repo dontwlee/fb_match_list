@@ -1,27 +1,6 @@
 {
     "matches": [
         {
-            "matchTime": "2024-03-12T23:00:00.000+08:00",
-            "frontEndId": "FB3190",
-            "homeTeam": {
-                "teamNameCH": "奇姆基",
-                "teamNameEN": "Khimki"
-            },
-            "awayTeam": {
-                "teamNameCH": "卡斯洛達",
-                "teamNameEN": "FK Krasnodar"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "俄羅斯盃",
-                "tournamentNameEN": "Russian Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "-1"
-        },
-        {
             "matchTime": "2024-03-13T01:00:00.000+08:00",
             "frontEndId": "FB3199",
             "homeTeam": {
@@ -40,28 +19,7 @@
             "liveEvent": {
                 "hasLiveInfo": false
             },
-            "anyInplaySelling": "-1"
-        },
-        {
-            "matchTime": "2024-03-13T01:15:00.000+08:00",
-            "frontEndId": "FB3191",
-            "homeTeam": {
-                "teamNameCH": "莫斯科中央陸軍",
-                "teamNameEN": "CSKA Moscow"
-            },
-            "awayTeam": {
-                "teamNameCH": "羅斯托夫",
-                "teamNameEN": "Rostov"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "俄羅斯盃",
-                "tournamentNameEN": "Russian Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "-1"
+            "anyInplaySelling": "1"
         },
         {
             "matchTime": "2024-03-13T03:00:00.000+08:00",
@@ -557,7 +515,7 @@
                 "teamNameCH": "FC山東",
                 "teamNameEN": "FC Shandong"
             },
-            "isESOffer": true,
+            "isESOffer": false,
             "tournament": {
                 "tournamentNameCH": "亞洲聯賽冠軍盃",
                 "tournamentNameEN": "Asian Champions League"
