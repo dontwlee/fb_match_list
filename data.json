@@ -1,90 +1,6 @@
 {
     "matches": [
         {
-            "matchTime": "2024-03-14T21:00:00.000+08:00",
-            "frontEndId": "FB3252",
-            "homeTeam": {
-                "teamNameCH": "洛辛堡",
-                "teamNameEN": "Rosenborg"
-            },
-            "awayTeam": {
-                "teamNameCH": "基斯迪辛德",
-                "teamNameEN": "Kristiansund"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "球會賽",
-                "tournamentNameEN": "Club Matches"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "-1"
-        },
-        {
-            "matchTime": "2024-03-14T23:00:00.000+08:00",
-            "frontEndId": "FB3225",
-            "homeTeam": {
-                "teamNameCH": "莫斯科火車頭",
-                "teamNameEN": "Lokomotiv Moscow"
-            },
-            "awayTeam": {
-                "teamNameCH": "巴爾迪卡",
-                "teamNameEN": "Baltika Kaliningrad"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "俄羅斯盃",
-                "tournamentNameEN": "Russian Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "-1"
-        },
-        {
-            "matchTime": "2024-03-14T23:00:00.000+08:00",
-            "frontEndId": "FB3226",
-            "homeTeam": {
-                "teamNameCH": "莫斯科斯巴達",
-                "teamNameEN": "Spartak Moscow"
-            },
-            "awayTeam": {
-                "teamNameCH": "FC奧倫堡",
-                "teamNameEN": "FC Orenburg"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "俄羅斯盃",
-                "tournamentNameEN": "Russian Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "-1"
-        },
-        {
-            "matchTime": "2024-03-14T23:00:00.000+08:00",
-            "frontEndId": "FB3250",
-            "homeTeam": {
-                "teamNameCH": "波杜基林特",
-                "teamNameEN": "Bodo Glimt"
-            },
-            "awayTeam": {
-                "teamNameCH": "水晶宮",
-                "teamNameEN": "Crystal Palace"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "球會賽",
-                "tournamentNameEN": "Club Matches"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "1"
-        },
-        {
             "matchTime": "2024-03-15T01:45:00.000+08:00",
             "frontEndId": "FB3177",
             "homeTeam": {
@@ -94,27 +10,6 @@
             "awayTeam": {
                 "teamNameCH": "賓菲加",
                 "teamNameEN": "Benfica"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "歐霸盃",
-                "tournamentNameEN": "UE Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-03-15T01:45:00.000+08:00",
-            "frontEndId": "FB3178",
-            "homeTeam": {
-                "teamNameCH": "布拉格斯拉維亞",
-                "teamNameEN": "Slavia Prague"
-            },
-            "awayTeam": {
-                "teamNameCH": "AC米蘭",
-                "teamNameEN": "AC Milan"
             },
             "isESOffer": true,
             "tournament": {
@@ -162,90 +57,6 @@
             "tournament": {
                 "tournamentNameCH": "歐霸盃",
                 "tournamentNameEN": "UE Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-03-15T01:45:00.000+08:00",
-            "frontEndId": "FB3215",
-            "homeTeam": {
-                "teamNameCH": "費倫天拿",
-                "teamNameEN": "Fiorentina"
-            },
-            "awayTeam": {
-                "teamNameCH": "海法馬卡比",
-                "teamNameEN": "Maccabi Haifa"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "歐洲協會聯賽",
-                "tournamentNameEN": "UE Conference"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-03-15T01:45:00.000+08:00",
-            "frontEndId": "FB3219",
-            "homeTeam": {
-                "teamNameCH": "費倫巴治",
-                "teamNameEN": "Fenerbahce"
-            },
-            "awayTeam": {
-                "teamNameCH": "聖基萊斯聯",
-                "teamNameEN": "Union Saint Gilloise"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "歐洲協會聯賽",
-                "tournamentNameEN": "UE Conference"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "-1"
-        },
-        {
-            "matchTime": "2024-03-15T01:45:00.000+08:00",
-            "frontEndId": "FB3220",
-            "homeTeam": {
-                "teamNameCH": "PAOK",
-                "teamNameEN": "PAOK"
-            },
-            "awayTeam": {
-                "teamNameCH": "薩格勒布戴拿模",
-                "teamNameEN": "Dinamo Zagreb"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "歐洲協會聯賽",
-                "tournamentNameEN": "UE Conference"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-03-15T01:45:00.000+08:00",
-            "frontEndId": "FB3216",
-            "homeTeam": {
-                "teamNameCH": "柏辛域陀尼亞",
-                "teamNameEN": "Viktoria Plzen"
-            },
-            "awayTeam": {
-                "teamNameCH": "塞維特",
-                "teamNameEN": "Servette"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "歐洲協會聯賽",
-                "tournamentNameEN": "UE Conference"
             },
             "liveEvent": {
                 "hasLiveInfo": true
