@@ -1,27 +1,6 @@
 {
     "matches": [
         {
-            "matchTime": "2024-04-11T23:00:00.000+08:00",
-            "frontEndId": "FB4477",
-            "homeTeam": {
-                "teamNameCH": "赫爾辛基",
-                "teamNameEN": "HJK Helsinki"
-            },
-            "awayTeam": {
-                "teamNameCH": "拉迪",
-                "teamNameEN": "Lahti"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "芬蘭超級聯賽",
-                "tournamentNameEN": "Finnish Division 1"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "1"
-        },
-        {
             "matchTime": "2024-04-12T00:45:00.000+08:00",
             "frontEndId": "FB4462",
             "homeTeam": {
