@@ -1,111 +1,6 @@
 {
     "matches": [
         {
-            "matchTime": "2024-04-16T21:00:00.000+08:00",
-            "frontEndId": "FB4614",
-            "homeTeam": {
-                "teamNameCH": "日本U23",
-                "teamNameEN": "Japan U23"
-            },
-            "awayTeam": {
-                "teamNameCH": "中國U23",
-                "teamNameEN": "China U23"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "U23亞洲盃",
-                "tournamentNameEN": "U23 Asian Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-04-16T23:30:00.000+08:00",
-            "frontEndId": "FB4615",
-            "homeTeam": {
-                "teamNameCH": "伊拉克U23",
-                "teamNameEN": "Iraq U23"
-            },
-            "awayTeam": {
-                "teamNameCH": "泰國U23",
-                "teamNameEN": "Thailand U23"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "U23亞洲盃",
-                "tournamentNameEN": "U23 Asian Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-04-16T23:30:00.000+08:00",
-            "frontEndId": "FB4616",
-            "homeTeam": {
-                "teamNameCH": "南韓U23",
-                "teamNameEN": "Korea Republic U23"
-            },
-            "awayTeam": {
-                "teamNameCH": "阿聯酋U23",
-                "teamNameEN": "UAE U23"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "U23亞洲盃",
-                "tournamentNameEN": "U23 Asian Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-04-17T00:00:00.000+08:00",
-            "frontEndId": "FB4757",
-            "homeTeam": {
-                "teamNameCH": "艾阿恩",
-                "teamNameEN": "Al Ain"
-            },
-            "awayTeam": {
-                "teamNameCH": "希拉爾",
-                "teamNameEN": "Al Hilal"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "亞洲聯賽冠軍盃",
-                "tournamentNameEN": "Asian Champions League"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-04-17T00:30:00.000+08:00",
-            "frontEndId": "FB4802",
-            "homeTeam": {
-                "teamNameCH": "莫斯科中央陸軍",
-                "teamNameEN": "CSKA Moscow"
-            },
-            "awayTeam": {
-                "teamNameCH": "巴爾迪卡",
-                "teamNameEN": "Baltika Kaliningrad"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "俄羅斯盃",
-                "tournamentNameEN": "Russian Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "-1"
-        },
-        {
             "matchTime": "2024-04-17T01:00:00.000+08:00",
             "frontEndId": "FB4798",
             "homeTeam": {
@@ -526,6 +421,48 @@
             "anyInplaySelling": "1"
         },
         {
+            "matchTime": "2024-04-17T07:00:00.000+08:00",
+            "frontEndId": "FB4821",
+            "homeTeam": {
+                "teamNameCH": "底特律城",
+                "teamNameEN": "Detroit City"
+            },
+            "awayTeam": {
+                "teamNameCH": "密歇根之星",
+                "teamNameEN": "Michigan Stars"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "美職聯賽盃",
+                "tournamentNameEN": "US League Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-04-17T07:00:00.000+08:00",
+            "frontEndId": "FB4822",
+            "homeTeam": {
+                "teamNameCH": "路易斯維爾城",
+                "teamNameEN": "Louisville City"
+            },
+            "awayTeam": {
+                "teamNameCH": "格林維爾凱旋",
+                "teamNameEN": "Greenville Triumph"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "美職聯賽盃",
+                "tournamentNameEN": "US League Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "1"
+        },
+        {
             "matchTime": "2024-04-17T07:30:00.000+08:00",
             "frontEndId": "FB4812",
             "homeTeam": {
@@ -566,6 +503,27 @@
                 "hasLiveInfo": true
             },
             "anyInplaySelling": "-1"
+        },
+        {
+            "matchTime": "2024-04-17T10:30:00.000+08:00",
+            "frontEndId": "FB4820",
+            "homeTeam": {
+                "teamNameCH": "奧克蘭根源",
+                "teamNameEN": "Oakland Roots"
+            },
+            "awayTeam": {
+                "teamNameCH": "艾法羅利托SC",
+                "teamNameEN": "El Farolito SC"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "美職聯賽盃",
+                "tournamentNameEN": "US League Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "1"
         },
         {
             "matchTime": "2024-04-17T17:00:00.000+08:00",
@@ -1364,6 +1322,48 @@
                 "hasLiveInfo": true
             },
             "anyInplaySelling": "-1"
+        },
+        {
+            "matchTime": "2024-04-18T21:00:00.000+08:00",
+            "frontEndId": "FB4818",
+            "homeTeam": {
+                "teamNameCH": "印尼U23",
+                "teamNameEN": "Indonesia U23"
+            },
+            "awayTeam": {
+                "teamNameCH": "澳洲U23",
+                "teamNameEN": "Australia U23"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "U23亞洲盃",
+                "tournamentNameEN": "U23 Asian Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-04-18T23:30:00.000+08:00",
+            "frontEndId": "FB4819",
+            "homeTeam": {
+                "teamNameCH": "卡塔爾U23",
+                "teamNameEN": "Qatar U23"
+            },
+            "awayTeam": {
+                "teamNameCH": "約旦U23",
+                "teamNameEN": "Jordan U23"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "U23亞洲盃",
+                "tournamentNameEN": "U23 Asian Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
         },
         {
             "matchTime": "2024-04-19T00:45:00.000+08:00",
