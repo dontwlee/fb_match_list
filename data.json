@@ -1,384 +1,6 @@
 {
     "matches": [
         {
-            "matchTime": "2024-04-17T10:30:00.000+08:00",
-            "frontEndId": "FB4820",
-            "homeTeam": {
-                "teamNameCH": "奧克蘭根源",
-                "teamNameEN": "Oakland Roots"
-            },
-            "awayTeam": {
-                "teamNameCH": "艾法羅利托SC",
-                "teamNameEN": "El Farolito SC"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "美職聯賽盃",
-                "tournamentNameEN": "US League Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-04-17T17:00:00.000+08:00",
-            "frontEndId": "FB4761",
-            "homeTeam": {
-                "teamNameCH": "岩手盛岡仙鶴",
-                "teamNameEN": "Iwate Grulla Morioka"
-            },
-            "awayTeam": {
-                "teamNameCH": "大阪櫻花",
-                "teamNameEN": "Cerezo Osaka"
-            },
-            "isESOffer": false,
-            "tournament": {
-                "tournamentNameCH": "日本聯賽盃",
-                "tournamentNameEN": "Japanese League Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-04-17T17:30:00.000+08:00",
-            "frontEndId": "FB4760",
-            "homeTeam": {
-                "teamNameCH": "八戶雲羅里",
-                "teamNameEN": "Vanraure Hachinohe"
-            },
-            "awayTeam": {
-                "teamNameCH": "鹿島鹿角",
-                "teamNameEN": "Kashima Antlers"
-            },
-            "isESOffer": false,
-            "tournament": {
-                "tournamentNameCH": "日本聯賽盃",
-                "tournamentNameEN": "Japanese League Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-04-17T18:00:00.000+08:00",
-            "frontEndId": "FB4756",
-            "homeTeam": {
-                "teamNameCH": "蔚山HD",
-                "teamNameEN": "Ulsan HD"
-            },
-            "awayTeam": {
-                "teamNameCH": "橫濱水手",
-                "teamNameEN": "Yokohama F.Marinos"
-            },
-            "isESOffer": false,
-            "tournament": {
-                "tournamentNameCH": "亞洲聯賽冠軍盃",
-                "tournamentNameEN": "Asian Champions League"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-04-17T18:00:00.000+08:00",
-            "frontEndId": "FB4766",
-            "homeTeam": {
-                "teamNameCH": "沼津青藍",
-                "teamNameEN": "Azul Claro Numazu"
-            },
-            "awayTeam": {
-                "teamNameCH": "北海道札幌岡薩多",
-                "teamNameEN": "Hokkaido Consadole Sapporo"
-            },
-            "isESOffer": false,
-            "tournament": {
-                "tournamentNameCH": "日本聯賽盃",
-                "tournamentNameEN": "Japanese League Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-04-17T18:00:00.000+08:00",
-            "frontEndId": "FB4794",
-            "homeTeam": {
-                "teamNameCH": "FC今治",
-                "teamNameEN": "FC Imabari"
-            },
-            "awayTeam": {
-                "teamNameCH": "神戶勝利船",
-                "teamNameEN": "Vissel Kobe"
-            },
-            "isESOffer": false,
-            "tournament": {
-                "tournamentNameCH": "日本聯賽盃",
-                "tournamentNameEN": "Japanese League Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-04-17T18:00:00.000+08:00",
-            "frontEndId": "FB4765",
-            "homeTeam": {
-                "teamNameCH": "北九州向日葵",
-                "teamNameEN": "Giravanz Kitakyushu"
-            },
-            "awayTeam": {
-                "teamNameCH": "町田澤維亞",
-                "teamNameEN": "Machida Zelvia"
-            },
-            "isESOffer": false,
-            "tournament": {
-                "tournamentNameCH": "日本聯賽盃",
-                "tournamentNameEN": "Japanese League Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-04-17T18:00:00.000+08:00",
-            "frontEndId": "FB4793",
-            "homeTeam": {
-                "teamNameCH": "磐城FC",
-                "teamNameEN": "Iwaki FC"
-            },
-            "awayTeam": {
-                "teamNameCH": "新潟天鵝",
-                "teamNameEN": "Albirex Niigata"
-            },
-            "isESOffer": false,
-            "tournament": {
-                "tournamentNameCH": "日本聯賽盃",
-                "tournamentNameEN": "Japanese League Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-04-17T18:00:00.000+08:00",
-            "frontEndId": "FB4788",
-            "homeTeam": {
-                "teamNameCH": "鹿兒島聯",
-                "teamNameEN": "Kagoshima United FC"
-            },
-            "awayTeam": {
-                "teamNameCH": "東京綠茵",
-                "teamNameEN": "Tokyo Verdy"
-            },
-            "isESOffer": false,
-            "tournament": {
-                "tournamentNameCH": "日本聯賽盃",
-                "tournamentNameEN": "Japanese League Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-04-17T18:00:00.000+08:00",
-            "frontEndId": "FB4764",
-            "homeTeam": {
-                "teamNameCH": "松本山雅",
-                "teamNameEN": "Matsumoto Yamaga"
-            },
-            "awayTeam": {
-                "teamNameCH": "福岡黃蜂",
-                "teamNameEN": "Avispa Fukuoka"
-            },
-            "isESOffer": false,
-            "tournament": {
-                "tournamentNameCH": "日本聯賽盃",
-                "tournamentNameEN": "Japanese League Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-04-17T18:00:00.000+08:00",
-            "frontEndId": "FB4763",
-            "homeTeam": {
-                "teamNameCH": "大宮松鼠",
-                "teamNameEN": "Omiya Ardija"
-            },
-            "awayTeam": {
-                "teamNameCH": "名古屋鯨魚",
-                "teamNameEN": "Nagoya Grampus"
-            },
-            "isESOffer": false,
-            "tournament": {
-                "tournamentNameCH": "日本聯賽盃",
-                "tournamentNameEN": "Japanese League Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-04-17T18:00:00.000+08:00",
-            "frontEndId": "FB4789",
-            "homeTeam": {
-                "teamNameCH": "長崎成功丸",
-                "teamNameEN": "V-Varen Nagasaki"
-            },
-            "awayTeam": {
-                "teamNameCH": "磐田山葉",
-                "teamNameEN": "Jubilo Iwata"
-            },
-            "isESOffer": false,
-            "tournament": {
-                "tournamentNameCH": "日本聯賽盃",
-                "tournamentNameEN": "Japanese League Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-04-17T18:00:00.000+08:00",
-            "frontEndId": "FB4762",
-            "homeTeam": {
-                "teamNameCH": "YSCC橫濱",
-                "teamNameEN": "YSCC Yokohama"
-            },
-            "awayTeam": {
-                "teamNameCH": "FC東京",
-                "teamNameEN": "FC Tokyo"
-            },
-            "isESOffer": false,
-            "tournament": {
-                "tournamentNameCH": "日本聯賽盃",
-                "tournamentNameEN": "Japanese League Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-04-17T18:00:00.000+08:00",
-            "frontEndId": "FB4797",
-            "homeTeam": {
-                "teamNameCH": "FC木浦",
-                "teamNameEN": "FC Mokpo"
-            },
-            "awayTeam": {
-                "teamNameCH": "FC富川",
-                "teamNameEN": "Bucheon FC"
-            },
-            "isESOffer": false,
-            "tournament": {
-                "tournamentNameCH": "南韓足總盃",
-                "tournamentNameEN": "Korean FA Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "-1"
-        },
-        {
-            "matchTime": "2024-04-17T18:00:00.000+08:00",
-            "frontEndId": "FB4805",
-            "homeTeam": {
-                "teamNameCH": "金泉尚武",
-                "teamNameEN": "Gimcheon Sangmu"
-            },
-            "awayTeam": {
-                "teamNameCH": "釜山偶像",
-                "teamNameEN": "Busan I'Park"
-            },
-            "isESOffer": false,
-            "tournament": {
-                "tournamentNameCH": "南韓足總盃",
-                "tournamentNameEN": "Korean FA Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "-1"
-        },
-        {
-            "matchTime": "2024-04-17T18:00:00.000+08:00",
-            "frontEndId": "FB4796",
-            "homeTeam": {
-                "teamNameCH": "FC城南",
-                "teamNameEN": "Seongnam FC"
-            },
-            "awayTeam": {
-                "teamNameCH": "FC水原",
-                "teamNameEN": "Suwon FC"
-            },
-            "isESOffer": false,
-            "tournament": {
-                "tournamentNameCH": "南韓足總盃",
-                "tournamentNameEN": "Korean FA Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "-1"
-        },
-        {
-            "matchTime": "2024-04-17T18:30:00.000+08:00",
-            "frontEndId": "FB4795",
-            "homeTeam": {
-                "teamNameCH": "安山綠人",
-                "teamNameEN": "Ansan Greeners"
-            },
-            "awayTeam": {
-                "teamNameCH": "水原藍翼",
-                "teamNameEN": "Suwon Bluewings"
-            },
-            "isESOffer": false,
-            "tournament": {
-                "tournamentNameCH": "南韓足總盃",
-                "tournamentNameEN": "Korean FA Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "-1"
-        },
-        {
-            "matchTime": "2024-04-17T18:30:00.000+08:00",
-            "frontEndId": "FB4807",
-            "homeTeam": {
-                "teamNameCH": "首爾EL",
-                "teamNameEN": "Seoul EL"
-            },
-            "awayTeam": {
-                "teamNameCH": "FC首爾",
-                "teamNameEN": "FC Seoul"
-            },
-            "isESOffer": false,
-            "tournament": {
-                "tournamentNameCH": "南韓足總盃",
-                "tournamentNameEN": "Korean FA Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": false
-            },
-            "anyInplaySelling": "-1"
-        },
-        {
             "matchTime": "2024-04-17T21:00:00.000+08:00",
             "frontEndId": "FB4618",
             "homeTeam": {
@@ -456,6 +78,27 @@
             "tournament": {
                 "tournamentNameCH": "U23亞洲盃",
                 "tournamentNameEN": "U23 Asian Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": true
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-04-18T00:00:00.000+08:00",
+            "frontEndId": "FB4823",
+            "homeTeam": {
+                "teamNameCH": "艾阿恩",
+                "teamNameEN": "Al Ain"
+            },
+            "awayTeam": {
+                "teamNameCH": "希拉爾",
+                "teamNameEN": "Al Hilal"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "亞洲聯賽冠軍盃",
+                "tournamentNameEN": "Asian Champions League"
             },
             "liveEvent": {
                 "hasLiveInfo": true
@@ -631,6 +274,27 @@
             "anyInplaySelling": "-1"
         },
         {
+            "matchTime": "2024-04-18T05:00:00.000+08:00",
+            "frontEndId": "FB4828",
+            "homeTeam": {
+                "teamNameCH": "烏拉圭女足U20",
+                "teamNameEN": "Uruguay Women U20"
+            },
+            "awayTeam": {
+                "teamNameCH": "秘魯女足U20",
+                "teamNameEN": "Peru Women U20"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "國際賽",
+                "tournamentNameEN": "International Matches"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "-1"
+        },
+        {
             "matchTime": "2024-04-18T06:00:00.000+08:00",
             "frontEndId": "FB4777",
             "homeTeam": {
@@ -778,6 +442,48 @@
             "anyInplaySelling": "-1"
         },
         {
+            "matchTime": "2024-04-18T07:30:00.000+08:00",
+            "frontEndId": "FB4829",
+            "homeTeam": {
+                "teamNameCH": "厄瓜多爾女足U20",
+                "teamNameEN": "Ecuador Women U20"
+            },
+            "awayTeam": {
+                "teamNameCH": "阿根廷女足U20",
+                "teamNameEN": "Argentina Women U20"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "國際賽",
+                "tournamentNameEN": "International Matches"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "-1"
+        },
+        {
+            "matchTime": "2024-04-18T08:00:00.000+08:00",
+            "frontEndId": "FB4827",
+            "homeTeam": {
+                "teamNameCH": "FC塔爾薩",
+                "teamNameEN": "FC Tulsa"
+            },
+            "awayTeam": {
+                "teamNameCH": "北科羅拉多雹暴",
+                "teamNameEN": "Northern Colorado Hailstorm"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "美職聯賽盃",
+                "tournamentNameEN": "US League Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "1"
+        },
+        {
             "matchTime": "2024-04-18T08:15:00.000+08:00",
             "frontEndId": "FB4811",
             "homeTeam": {
@@ -818,6 +524,48 @@
                 "hasLiveInfo": true
             },
             "anyInplaySelling": "-1"
+        },
+        {
+            "matchTime": "2024-04-18T10:30:00.000+08:00",
+            "frontEndId": "FB4826",
+            "homeTeam": {
+                "teamNameCH": "拉斯維加斯燈火",
+                "teamNameEN": "Las Vegas Lights"
+            },
+            "awayTeam": {
+                "teamNameCH": "斯波坎速度",
+                "teamNameEN": "Spokane Velocity"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "美職聯賽盃",
+                "tournamentNameEN": "US League Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "1"
+        },
+        {
+            "matchTime": "2024-04-18T10:30:00.000+08:00",
+            "frontEndId": "FB4825",
+            "homeTeam": {
+                "teamNameCH": "蒙特雷灣",
+                "teamNameEN": "Monterey Bay"
+            },
+            "awayTeam": {
+                "teamNameCH": "爾灣澤塔",
+                "teamNameEN": "Irvine Zeta"
+            },
+            "isESOffer": true,
+            "tournament": {
+                "tournamentNameCH": "美職聯賽盃",
+                "tournamentNameEN": "US League Cup"
+            },
+            "liveEvent": {
+                "hasLiveInfo": false
+            },
+            "anyInplaySelling": "1"
         },
         {
             "matchTime": "2024-04-18T21:00:00.000+08:00",
