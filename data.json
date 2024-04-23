@@ -1,48 +1,6 @@
 {
     "matches": [
         {
-            "matchTime": "2024-04-23T23:30:00.000+08:00",
-            "frontEndId": "FB5300",
-            "homeTeam": {
-                "teamNameCH": "科威特U23",
-                "teamNameEN": "Kuwait U23"
-            },
-            "awayTeam": {
-                "teamNameCH": "馬來西亞U23",
-                "teamNameEN": "Malaysia U23"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "U23亞洲盃",
-                "tournamentNameEN": "U23 Asian Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "1"
-        },
-        {
-            "matchTime": "2024-04-23T23:30:00.000+08:00",
-            "frontEndId": "FB5301",
-            "homeTeam": {
-                "teamNameCH": "烏茲別克U23",
-                "teamNameEN": "Uzbekistan U23"
-            },
-            "awayTeam": {
-                "teamNameCH": "越南U23",
-                "teamNameEN": "Vietnam U23"
-            },
-            "isESOffer": true,
-            "tournament": {
-                "tournamentNameCH": "U23亞洲盃",
-                "tournamentNameEN": "U23 Asian Cup"
-            },
-            "liveEvent": {
-                "hasLiveInfo": true
-            },
-            "anyInplaySelling": "1"
-        },
-        {
             "matchTime": "2024-04-24T02:00:00.000+08:00",
             "frontEndId": "FB5304",
             "homeTeam": {
